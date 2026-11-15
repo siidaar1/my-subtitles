@@ -1,0 +1,463 @@
+{
+  "id": "2026-11-15_16-24-55_PveJ61xUs4c",
+  "url": "https://youtu.be/PveJ61xUs4c?si=OpuLJZFrfaIFENzh",
+  "video_id": "PveJ61xUs4c",
+  "title": "Claude Made a Fern-Style 3D Documentary in One Click (Copy Me)",
+  "lang": "ckb",
+  "language": "Kurdish (Sorani)",
+  "engine": "gemini",
+  "created": "2026-11-15T16:24:55",
+  "status": "done",
+  "original": [
+    {
+      "time": "0:00",
+      "text": "I'm about to show you my setup that allows you to press a single button and it will build you a full 3D environment with professional lighting, textured objects, as well as animated characters."
+    },
+    {
+      "time": "0:08",
+      "text": "This is unlike any other AI tutorial I've done because it actually puts us on a professional playing field using real 3D models and professional tools. Now,"
+    },
+    {
+      "time": "0:16",
+      "text": "make sure you're watching this in 4K because these results are pretty good."
+    },
+    {
+      "time": "0:23",
+      "text": "Dana Kowalsski is driving to work when her headlights catch something. a camper with steel plates bolted over every"
+    },
+    {
+      "time": "0:30",
+      "text": "window and on the asphalt, a man in full combat gear laying on his back. Sarah doesn't get out. [music] She locks her doors and she calls 911."
+    },
+    {
+      "time": "0:39",
+      "text": "911. What's your emergency, please?"
+    },
+    {
+      "time": "0:42",
+      "text": "Within the hour, that call lands with Frank Ostroski [music] at the FBI. He doesn't need the rest of the report. He already knows whose camper that is."
+    },
+    {
+      "time": "0:50",
+      "text": "You have to understand, this stuff used to cost us thousands of dollars just for minutes of runtime. And now you have access to build your own multi-million dollar YouTube channel [music] like"
+    },
+    {
+      "time": "0:58",
+      "text": "Fern, you're about to experience what it's like to drink coffee, browse 3D models, and watch the story you had inside your head unfold into a beautiful 3D masterpiece. Now, I'm going to shut the hell up and show you how to do this."
+    },
+    {
+      "time": "1:09",
+      "text": "Now, before you start freaking out that we have to use Blender, all we have to do is download it, open it, and [music] then essentially our job is over. And of course, Blender is free. So to download"
+    },
+    {
+      "time": "1:17",
+      "text": "it, we just have to search [music] Blender here, click on the first link, and then just select download. And so instead of just showing you quick examples, I'm going to show you in real"
+    },
+    {
+      "time": "1:25",
+      "text": "time here how I'm going to generate a clip for my mini documentary that I showed you in the intro. So I'm going to build all of this from scratch and then we're going to get that clip of her"
+    },
+    {
+      "time": "1:32",
+      "text": "inside of the car. You'll see in a second how easy this is. So I like to find and use my own 3D models, but after this process, everything else is"
+    },
+    {
+      "time": "1:40",
+      "text": "automated. So we're going to go to the website CGT Trader. I can type in any word I want and then I can select free."
+    },
+    {
+      "time": "1:46",
+      "text": "And these are going to be all the models we can just download and use for free."
+    },
+    {
+      "time": "1:49",
+      "text": "You can also get AI to generate you 3D models if you have like custom projects, but for now and for scenes like this, I figure why bother? So, I'm going to"
+    },
+    {
+      "time": "1:57",
+      "text": "search road. This one looks pretty good, so I'm going to hit download here. I'm going to search trees. Here's a nice free looking tree right here. So, I'll"
+    },
+    {
+      "time": "2:04",
+      "text": "download that. Going to search car. And here's all the cars we can download. I'm going to select this one. I also downloaded this one cuz it has the interior here. And that's what we want."
+    },
+    {
+      "time": "2:13",
+      "text": "I searched for a woman, and this one's sitting [music] down. So, I'm going to download this one. I searched for an army soldier. So, here's a pretty cool one, but I [music] think I'm going to go"
+    },
+    {
+      "time": "2:21",
+      "text": "with this one. And by the way, I'm putting all of these 3D assets inside of a folder and labeling it 3D [music] references. This is going to come in really handy with our prompt. If you"
+    },
+    {
+      "time": "2:30",
+      "text": "want to get really lazy and truly have this a one-click process, you can have the agent find [music] 3D models for you and download them, but I like to handpick my own models. This is the"
+    },
+    {
+      "time": "2:38",
+      "text": "Google doc with the prompt, and it is in the description. It basically tells our AI agent what we want it to do in Blender. So, this includes things like cinematic lighting, smooth camera"
+    },
+    {
+      "time": "2:46",
+      "text": "movements. Now, once you copy this prompt, I'm going to open up Abacus AI."
+    },
+    {
+      "time": "2:50",
+      "text": "They're the sponsor of this video, and I really like how efficient [music] it is."
+    },
+    {
+      "time": "2:53",
+      "text": "I switch between multiple different agents in my editing process. And this gives us access to all of them in one spot for $10 a month. The link to this is in the description. So, I'm going to"
+    },
+    {
+      "time": "3:01",
+      "text": "select Claude. [music] Now, I'm going to click on Blender. And this is the first page it opens up. And we're going to go like this. And if you're wondering how I just know how to set everything up, the"
+    },
+    {
+      "time": "3:09",
+      "text": "answer is I don't. I just simply ask Claude, and it will tell you how to do anything. Hey man, as you can see, I have Blender [music] open. what do you want me to do so that you have full"
+    },
+    {
+      "time": "3:17",
+      "text": "access to sort through my files on my computer and build my Blender environment? And now it's just going to tell us exactly how to do it. There's basically no limit to what it can do."
+    },
+    {
+      "time": "3:25",
+      "text": "[music] So, first it's telling us to download the Blender MCP. So, I'm going to search Blendermcp. [music]"
+    },
+    {
+      "time": "3:31",
+      "text": "Click on this first link. You're going to hit download and then you're going to drag that file into your Blender and it's going to install. And then inside of Blender, you're going to hit edit"
+    },
+    {
+      "time": "3:38",
+      "text": "preferences. We're going to come down to add-ons here. And then we're going to make sure the MCP is checked on like this. And I'm going to hit this drop-own menu and we're going to make sure that"
+    },
+    {
+      "time": "3:46",
+      "text": "the server is running. So now in Abacus AI agent, I'm just going to say, okay, the MCP server is running in Blender."
+    },
+    {
+      "time": "3:52",
+      "text": "Let me know if you can connect. So now it says yes, I can connect to Blender and run commands in it. And then it's given me all of this stuff that I'm not going to read, but essentially it's"
+    },
+    {
+      "time": "4:00",
+      "text": "working. Now I'm going to come over to my doc and copy my prompt. And so right here it says shot. [music] And this is where we're going to describe basically"
+    },
+    {
+      "time": "4:08",
+      "text": "everything we want. And so here I just roughly described the scene I want like a country road with two cars facing each other in headlights. And then right here in the prompt it says mood/ reference."
+    },
+    {
+      "time": "4:17",
+      "text": "So I'm just going to write I want it to be sunset early in the morning. And so here it's asking for the resolution in FPS. This will be different for"
+    },
+    {
+      "time": "4:23",
+      "text": "everybody, but I like to do 4K at 30 FPS. And then again, this prompt says render budget. And you can just type in"
+    },
+    {
+      "time": "4:31",
+      "text": "how many hours you're willing to have it take. And so if you had 5 hours of free time and you want it to take 5 hours to render, it'll [music] look like a"
+    },
+    {
+      "time": "4:38",
+      "text": "worldclass cinematic movie. But if you only have 5 or 10 minutes, which I used on the renders I showed you, um it still looks great. And so now once you fill everything out, our job here is done and"
+    },
+    {
+      "time": "4:47",
+      "text": "we can hit send. Now I also have in the prompt that once everything's built out and the camera's ready. Before it renders it out, it's going to check with me and make sure everything looks good"
+    },
+    {
+      "time": "4:56",
+      "text": "and then I can render it out. [music] So I can scroll around here, zoom into different objects, and I can position them however I want. So, if everything looks good, I can go ahead and say,"
+    },
+    {
+      "time": "5:04",
+      "text": "let's render this out. So, as you can see, we have all of our scenes built out. And so, before we set up another agent to put them all together in sound design and music, I'm going to show you"
+    },
+    {
+      "time": "5:12",
+      "text": "how I generated my voice over. And by the way, Claude Fable 5.2 is out, and I'm still experimenting with that. Um, some cases it's better, some cases it's"
+    },
+    {
+      "time": "5:20",
+      "text": "not, but for now, I'm just using Opus 5.5. So, on the Abacus AI website, they have a voice tab, and then I'm going to"
+    },
+    {
+      "time": "5:27",
+      "text": "select audio generation. And then here you can either type in what you want it to say if you already have your script or you can have it build your script and then it will generate it into a voice."
+    },
+    {
+      "time": "5:35",
+      "text": "And so in this case I'm just going to say generate me the intro of a documentary. Now depending on how much you give it and if it's based on a true story, it'll actually do the research"
+    },
+    {
+      "time": "5:42",
+      "text": "for you as well. And then once you confirm the script, it'll generate the audio for us. So now we have our scenes here and our audio. I'm going to create"
+    },
+    {
+      "time": "5:50",
+      "text": "a new folder and I'm going to title it documentary edit. And I'm going to drag all of these in there. So now I'm going to open up Da Vinci Resolve or you can use any timeline editor of your choice."
+    },
+    {
+      "time": "5:59",
+      "text": "I'm going to open up Aacus AI agent. I'm going to switch this to GPT6 Astro. In my opinion, it's just the best for sound design and cutting up your clips in Da"
+    },
+    {
+      "time": "6:07",
+      "text": "Vinci Resolve. So here I'm just going to type what I want it to do. There's no secret to this. You basically just talk to it like you're talking to an editor."
+    },
+    {
+      "time": "6:13",
+      "text": "I told it the location of all the clips and then I gave it access to my music library and my sound effects library."
+    },
+    {
+      "time": "6:18",
+      "text": "And I basically just said, \"Turn this into a great documentary intro.\" Now, I'm not going to lie. The majority of the time I do have to go in and fix things like certain sound effects, but"
+    },
+    {
+      "time": "6:26",
+      "text": "it just gets the majority of my work done, and it basically just leaves the fun part for me. Like I said at the start of this video, this documentary clip only took me like 30 minutes to"
+    },
+    {
+      "time": "6:33",
+      "text": "build from start to finish. And without AI, that probably would have taken me days, like at least 2 days, I think."
+    },
+    {
+      "time": "6:39",
+      "text": "Probably 2 days. So, play around with this and send me your results on my Instagram. I uh I'd love to see what you guys come up with."
+    },
+    {
+      "time": "6:54",
+      "text": "[music]"
+    }
+  ],
+  "translated": [
+    {
+      "time": "0:00",
+      "text": "خەریکە سیستمەکەتان پێشان دەدەم کە ڕێگەت پێدەدات بە تەنیا یەک دوگمە ژینگەیەکی سێ دووریی تەواو بە ڕووناککاریی پیشەیی، شێوەکاری تەنەکان و کەسایەتیی جووڵاو دروست بکات."
+    },
+    {
+      "time": "0:08",
+      "text": "ئەمە جیاوازە لە هەر ڕاهێنانێکی تری ئەوەی زیرەکیی دەستکرد کە کردوومە، چونکە بەڕاستی داتدەخاتە گۆڕەپانێکی پیشەیییەوە بە بەکارهێنانی مۆدێلی سێ دووریی ڕاستەقینە و ئامرازی پیشەیی. ئێستا،"
+    },
+    {
+      "time": "0:16",
+      "text": "دڵنیا ببەرەوە کە ئەمە بە کوالێتیی 4K سەیریدەکەیت چونکە ئەم ئەنجامانە زۆر باشن."
+    },
+    {
+      "time": "0:23",
+      "text": "دانا کۆوالسکی شۆفێری دەکات بۆ سەر کار کاتێک چرای ئۆتۆمبێلەکەی شتێک دەبینێت، کەمپەرێک کە پەڕەی پۆڵای بە هەموو پەنجەرەیەکدا دراوە و لەسەر قیرەکەش، پیاوێک بە جلوبەرگی تەواوی جەنگییەوە لەسەر پشت درێژ بووە. سارا دەرناچێت. [مۆسیقا] دەرگاکانی قفڵ دەکات و پەیوەندی بە 911وە دەکات."
+    },
+    {
+      "time": "0:30",
+      "text": "911، تکایە حاڵەتی لەناکاوت چییە؟"
+    },
+    {
+      "time": "0:39",
+      "text": "لە ماوەی کاتژمێرێکدا، ئەو پەیوەندییە دەگاتە دەست فرانک ئۆسترۆسکی [مۆسیقا] لە ئێف بی ئای. ئەو پێویستی بە پاشماوەی راپۆرتەکە نییە. ئەو پێشتر دەزانێت ئەو کەمپەرە هی کێیە."
+    },
+    {
+      "time": "0:42",
+      "text": "دەبێت تێبگەی، ئەم شتانە جاران هەزاران دۆلاریان تێدەچوو تەنها بۆ چەند خولەکێک لە کارکردن. و ئێستاش تۆ دەستگەیشتنت هەیە بۆ دروستکردن و گەشەپێدانی کەناڵی یووتیوبەکەی خۆت بە ملیۆنان دۆلار [مۆسیقا] وەک"
+    },
+    {
+      "time": "0:50",
+      "text": "فێرن، خەریکە ئەزموون دەکەیت کە چۆنە قاوە بخۆیتەوە، سەیری مۆدێلی سێ دووری بکەیت، و سەیری ئەو چیڕۆکە بکەیت کە لە مێشکتدا هەبوو کە دەبێتە شاهکارێکی جوانی سێ دووری. ئێستا، من دەمەوێت دەمم دابخەم و پێشانت بدەم چۆن ئەمە بکەیت."
+    },
+    {
+      "time": "0:58",
+      "text": "ئێستا، پێش ئەوەی بترسیت کە دەبێت بلێندەر بەکاربهێنین، ئەوەی تەنها دەبێت بیکەین ئەوەیە دایبەزێنین، بیکەینەوە و [مۆسیقا] پاشان لە بنەڕەتدا کارەکەمان تەواو بووە. و بێگومان، بلێندەر بەڕوخساری بێبەرامبەرە. بۆیە بۆ دابەزاندنی،"
+    },
+    {
+      "time": "1:09",
+      "text": "ئێمە تەنها پێویستە بگەڕێین بەدوای [مۆسیقا] بلێندەردا لێرە، کلیک لەسەر یەکەم بەستەر بکەین، و پاشان تەنها دابەزاندن هەڵبژێرین. وبۆیە لەجیاتی تەنها پیشاندانی نموونەی خێرا، من لە کاتی ڕاستەقینەدا لێرەدا پیشانت دەدەم کە چۆن کلیپێک بۆ مینی دۆکیۆمێنتەرییەکەم دروست دەکەم کە لە دەستپێکدا پێشانم دایت. بۆیە من هەموو ئەمە لە سفرەوە دروست دەکەم و پاشان ئەو کلیپەی ئەو لەناو ئۆتۆمبێلەکەدا دەهێنینە دەرەوە."
+    },
+    {
+      "time": "1:17",
+      "text": "لە چرکەیەکدا دەیبینیت ئەمە چەندە ئاسانە. بۆیە من حەز دەکەم مۆدێلی سێ دووریی خۆم بدۆزمەوە و بەکاریان بهێنم، بەڵام لە دوای ئەم پرۆسەیەوە، هەموو شتێکی تر ئۆتۆماتیکی دەبێت."
+    },
+    {
+      "time": "1:25",
+      "text": "بۆیە ئێمە دەچین بۆ ماڵپەڕی سی جی ترەیدەر. دەتوانم هەر وشەیەک بنووسم کە دەمەوێت و پاشان دەتوانم خۆڕایی هەڵبژێرم."
+    },
+    {
+      "time": "1:32",
+      "text": "و ئەمانە دەبنە هەموو ئەو مۆدێلانەی کە دەتوانین تەنها دابەزێنین و بەبێ بەرامبەر بەکاریان بهێنین."
+    },
+    {
+      "time": "1:40",
+      "text": "هەروەها دەتوانیت زیرەکیی دەستکرد بەکاربهێنیت بۆ دروستکردنی مۆدێلی سێ دووری ئەگەر پڕۆژەی تایبەتت هەبێت، بەڵام بۆ ئێستا و بۆ دیمەنەکانی وەکو ئەمە، پێموایە بۆچی ماندوو بیت؟ بۆیە، من دەگەڕێم"
+    },
+    {
+      "time": "1:46",
+      "text": "بەدوای ڕێگادا. ئەمەیان زۆر باش دەردەکەوێت، بۆیە من لێرەدا داگرتن دادەگرتم. دەگەڕێم بەدوای دارەکاندا. دارێکی خۆڕایی جوان لێرە دەبینرێت. بۆیە، من"
+    },
+    {
+      "time": "1:49",
+      "text": "ئەوە دابەزێنم. دەگەڕێم بەدوای ئۆتۆمبێلدا. و ئەمانە هەموو ئەو ئۆتۆمبێلانەن کە دەتوانین دابەزێنین. من ئەمەیان هەڵدەبژێرم. من هەروەها ئەمەیانم دابەزاند چونکە ناوەوەکەی لێرەیە. و ئەوەیە کە ئێمە دەمانەوێت."
+    },
+    {
+      "time": "1:57",
+      "text": "گەڕام بەدوای ئافرەتێکدا، و ئەوەی ئەمەیان دانیشتووە [مۆسیقا]. بۆیە، من ئەمەیان دادەبەزێنم. گەڕام بەدوای سەربازێکی سوپادا. بۆیە، لێرەدا یەکێکی زۆر خۆش هەیە، بەڵام پێموایە"
+    },
+    {
+      "time": "2:04",
+      "text": "لەگەڵ ئەمەیاندا دەچم. و بەڕێگای خۆیدا، من هەموو ئەم سامانە سێ دووریانە دەخەمە ناو بوخچەیەکەوە و ناوی لێدەنێم سەرچاوە سێ دوورییەکان [مۆسیقا]. ئەمە لە فەرمانەکانماندا بەڕاستی بەسوود دەبێت. ئەگەر تۆ"
+    },
+    {
+      "time": "2:13",
+      "text": "دەتەوێت زۆر تەمبەڵی بکەیت و بەڕاستی ئەمە بکەیتە پرۆسەیەکی یەک کلیکی، دەتوانیت بریکارەکە ڕێگە پێبدەیت مۆدێلی سێ دووری بۆ تۆ بدۆزێتەوە [مۆسیقا] و دایانبەزێنێت، بەڵام من حەز دەکەم مۆدێلی خۆم هەڵبژێرم. ئەمە"
+    },
+    {
+      "time": "2:21",
+      "text": "بەڵگەنامەی گووگڵە لەگەڵ فەرمانەکەدا، و لە وەسفەکەدایە. لە بنەڕەتدا بە بریکاری زیرەکی دەستکرد دەڵێت چی دەوێت لە بلێندەردا بینین و بکات. بۆیە، ئەمە شتەکانی وەکو ڕووناککاریی سینەمایی، جووڵەی"
+    },
+    {
+      "time": "2:30",
+      "text": "نەرمی کامێرا لەخۆ دەگرێت. ئێستا، کاتێک ئەم فەرمانە لەبەر دەگریت، ئەباکۆس ئەی آی دەکەمەوە."
+    },
+    {
+      "time": "2:38",
+      "text": "ئەوان سپۆنسەری ئەم ڤیدیۆیە بوون، و من بەڕاستی حەزم لەوەیە کە چەندە کارایە [مۆسیقا]."
+    },
+    {
+      "time": "2:46",
+      "text": ""
+    },
+    {
+      "time": "2:50",
+      "text": ""
+    },
+    {
+      "time": "2:53",
+      "text": "من لە پرۆسەی مۆнтаژەکەمدا لە نێوان چەند بریکارێکی جیاوازدا دەگۆڕێم. ئەمەش دەرفەتمان پێدەدا کە بە تەنها ١٠ دۆلار مانگانە دەستمان بە هەموویان بگات لە یەک شوێنپرۆگرامەکە. بەستەری ئەمەش لە ڕوونکردنەوەکەدایە. بۆیە، من ئێستا"
+    },
+    {
+      "time": "3:01",
+      "text": "کڵاود هەڵدەبژێرم. [مۆسیقا] ئێستاش، کرتە لەسەر بلیندەر دەکەم. ئەمەش یەکەم پەڕەیە کە دەکرێتەوە. وە ئێمەش بەم شێوەیە دەچینە پێشەوە. وە ئەگەر سەرسامیت کە چۆن تەنها بە ڕێکوپێکی هەموو شتێک ڕێکدەخەم، ئەوا"
+    },
+    {
+      "time": "3:09",
+      "text": "وەڵامەکە ئەوەیە کە نازانم. من تەنها بە سادەیی لە کڵاود دەپرسم، ئەویش پێت دەڵێت کە چۆن هەر شتێک بکەیت. بەڕێزم، هەروەک دەبینیت، بلیندەرم [مۆسیقا] کراوەتەوە. دەتەوێت چی بکەم بۆ ئەوەی دەسەڵاتی تەواوت هەبێت"
+    },
+    {
+      "time": "3:17",
+      "text": "بۆ گەڕان لە ناو فایلەکانی کۆمپیوتەرەکەمدا و دروستکردنی ژینگەی بلیندەرەکەم؟ ئیتر ئێستا بە وردی پێمان دەڵێت کە چۆن ئەنجامی بدەین. لە ڕاستیدا هیچ سنوورێک بۆ ئەو کارانە نییە کە دەتوانێت ئەنجامی بدات."
+    },
+    {
+      "time": "3:25",
+      "text": "[مۆسیقا] کەواتە، سەرەتا پێمان دەڵێت کە بلیندەر ئێم سی پی دابەزێنین. بۆیە من دەگەڕێم بەدوای بلیندەر ئێم سی پی. [مۆسیقا]"
+    },
+    {
+      "time": "3:31",
+      "text": "کرتە لەسەر ئەم یەکەم بەستەرە بکە. دوگمەی داگرتن دەکەیت و پاشان فایلەکە ڕادەکێشیتە ناو بلیندەرەکەتەوە و خۆکارانە دەبەسترێت. پاشان لە ناو بلیندەردا، کرتە لەسەر دەستکاری"
+    },
+    {
+      "time": "3:38",
+      "text": "هەڵبژاردەکان دەکەیت. دێینە خوارەوە بۆ بەشی زیادکراوەکان لێرە. پاشان دڵنیا دەبینەوە کە ئێم سی پی بەم شێوەیە دیاریکراوە. وە کرتە لەسەر ئەم پێڕستە خوارووە دەکەم و دڵنیادەبینەوە لەوەی که"
+    },
+    {
+      "time": "3:46",
+      "text": "ڕایەڵەکە کاردەکات. ئێستا لە بریکاری ئەباکەس ئاییدا، تەنها دەڵێم، باشە، ڕایەڵەی ئێم سی پی لە بلیندەردا کاردەکات."
+    },
+    {
+      "time": "3:52",
+      "text": "پێم بڵێ ئەگەر دەتوانیت پەیوەندی دروست بکەیت. ئێستا دەڵێت بەڵێ، دەتوانم پەیوەندی بە بلیندەرەوە بکەم و فەرمانەکانی تێدا جێبەجێ بکەم. پاشان هەموو ئەم شتانەی پێشکەش کردووم کە نایانخوێنمەوە، بەڵام بنەڕەتەکە ئەوەیە کە"
+    },
+    {
+      "time": "4:00",
+      "text": "کارەکەی خۆی دەکات. ئێستا دێمە سەر دۆکیومێنتەکەم و فەرمانەکەم کۆپی دەکەم. کەواتە لێرەدا دەنووسێت شۆت. [مۆسیقا] لێرەشدا ئەو شوێنەیە کە بە شێوەیەکی بنەڕەتی"
+    },
+    {
+      "time": "4:08",
+      "text": "هەموو ئەو شتانە ڕوون دەکەینەوە کە دەمانەوێت. کەواتە لێرەدا بە کورتی ئەو دیمەنەم ڕوونکردەوە کە دەمەوێت، وەکو ڕێگاوبانێکی گوندەواری لەگەڵ دوو ئۆتۆمبێل کە ڕوویان لە یەکترییە و گڵۆپەکانیان هەڵکردووە. پاشان لێرەدا لە فەرمانەکەدا دەنووسێت دۆخ/سەرچاوە."
+    },
+    {
+      "time": "4:17",
+      "text": "کەواتە تەنها ئەوە دەنووسم کە دەمەوێت کاتی خۆرئاوابوون بێت لە سەرەتای بەیانیدا. وە لێرەشدا داوای ڕوونی و چڕی لەگەڵ چوارچێوە لە چرکەیەکدا دەکات. ئەمەش دەگۆڕێت بۆ"
+    },
+    {
+      "time": "4:23",
+      "text": "هەموو کەسێک، بەڵام من حەز دەکەم کوالێتی 4K بە ٣٠ چوارچێوە لە چرکەیەکدا بەکاربهێنم. وە جارێکی دیکە، ئەم فەرمانەیە باسی بودجەی ڕێندەرکردن دەکات."
+    },
+    {
+      "time": "4:31",
+      "text": "وە دەتوانیت تەنها ئەو کاتژمێرانە بنووسیت کە ئامادەیت بۆی تەرخان بکەیت. کەواتە ئەگەر ٥ کاتژمێر کاتی بەتاڵت هەبێت وتەوێت ٥ کاتژمێر بخایەنێت بۆ ڕێندەرکردن، ئەوا دەبێتە [مۆسیقا] وەک"
+    },
+    {
+      "time": "4:38",
+      "text": "فیلمێکی سینەمایی ئاستبەرز. بەڵام ئەگەر تەنها ٥ بۆ ١٠ خولەکت هەبێت، کە منیش ئەوەم لەو ڕێندەرانەدا بەکارهێنا کە پیشانم دان، هێشتا زۆر نایاب دەردەکەوێت. کەواتە ئێستا کە هەموو شتێک پڕ دەکەیتەوە، کارەکەمان لێرەدا تەواو دەبێت و"
+    },
+    {
+      "time": "4:47",
+      "text": "دەتوانین دوگمەی ناردن بگرین. ئێستا من لە فەرمانەکەشدا دامناوە کە کاتێک هەموو شتێک دروستکرا و کامێراکەش ئامادە بوو. پێش ئەوەی ڕێندەری بکات، لەگەڵمدا پشکنین دەکات و دڵنیا دەبێتەوە کە هەموو شتێک بە جوانی دەردەکەوێت"
+    },
+    {
+      "time": "4:56",
+      "text": "و پاشان دەتوانم ڕێندەری بکەم. [مۆسیقا] بۆیە دەتوانم لێرەدا هاتووچۆ بکەم، بچمە ناو شتە جیاوازەکانەوە، و دەتوانم بیانخەمە هەر شوێنێکەوە کە دەمەوێت. کەواتە، ئەگەر هەموو شتێک بە باشی دەرکەوت، دەتوانم پێشڕەوی بکەم و بڵێم،"
+    },
+    {
+      "time": "5:04",
+      "text": "با ئەمە ڕێندەر بکەین. کەواتە، هەروەک دەبینیت، هەموو دیمەنەکانمان دروستکراون. کەواتە، پێش ئەوەی بریکارێکی تر دابڕێژین بۆ کۆکردنەوەی هەموویان پێکەوە لە دیزاینی دەنگ و مۆسیقادا، پێشانت دەدەم کە"
+    },
+    {
+      "time": "5:12",
+      "text": "چۆن دەنگی سەرەکیم دروستکرد. بە ڕێگەی تەنیشتدا، کڵاود فەیبڵ 5.2 بڵاوبووەوە، و هێشتا خەریکی تاقیکردنەوەیم لەگەڵ ئەوەدا. هەندێک جار باشترە، هەندێک جاریش"
+    },
+    {
+      "time": "5:20",
+      "text": "نەخێر، بەڵام بۆ ئێستا، تەنها ئۆپەس 5.5 بەکاردەهێنم. کەواتە لە ماڵپەڕی ئەباکەس ئاییدا، خشتەی دەنگیان هەیە، و پاشان من"
+    },
+    {
+      "time": "5:27",
+      "text": "دەرکردنی دەنگ هەڵدەبژێرم. پاشان لێرەدا دەتوانیت یان ئەوەتا ئەوە بنووسیت کە دەتەوێت بیڵێت ئەگەر پێشوەختە دەقەکەت هەیە یان دەتوانیت وا بکەیت دەقەکەت بۆ دروست بکات و پاشان دەیگۆڕێت بە دەنگ."
+    },
+    {
+      "time": "5:35",
+      "text": "کەواتە لەم حاڵەتەدا تەنیا دەڵێم پێشەکییەکی دۆکیومێنتارییەکم بۆ دروست بکە. ئێستاش بە پێی ئەوەی چەند زانیاریی دەدێ و ئایا لەسەر ڕووداوێکی ڕاستەقینەیە یان نا، خۆی توێژینەوەکەت بۆ دەکات"
+    },
+    {
+      "time": "5:42",
+      "text": "بۆتۆش. پاش ئەوەی دەقەکەش پەسەند دەکەیت، دەنگەکەمان بۆ دروست دەکات. کەواتە ئێستا دیمەنەکانمان لێرەن لەگەڵ دەنگەکەشدا. منیش باخەڵدەرێکی"
+    },
+    {
+      "time": "5:50",
+      "text": "نوێ دروست دەکەم و ناوی لێ دێنم دەستکاریی دۆکیومێنتاری. پاشان هەمووی ڕادەکێشمە ناو ئەوێنەوە. ئێستاش دەیڤنچی رێزۆڵڤ (DaVinci Resolve) دەکرێمەوە یان دەتوانیت هەر بەرنامەیەکی تری دەستکاریکردنی کاتی بەکار بهێنیت کە پێت خۆشە."
+    },
+    {
+      "time": "5:59",
+      "text": "بریکاری ئاکۆس ئەی‌آی (Aacus AI) دەکرێمەوە. ئەمە دەگۆڕم بۆ جی‌پی‌تی‌سیکس ئاسترۆ (GPT6 Astro). بە بڕوای من، ئەمە باشترینە بۆ دیزاینی دەنگ و بڕینی ڤیدیۆکانت لە"
+    },
+    {
+      "time": "6:07",
+      "text": "دەیڤنچی رێزۆڵڤ. کەواتە لێرەدا تەنیا ئەوە دەنووسم کە دەمەوێت بیکات. هیچ نهێنییەک لەمەدا نییە. بە کورتی، وەک ئەوەی لەگەڵ مۆنتاژکارێکدا قسە بکەیت قسەی لەگەڵ دەکەیت."
+    },
+    {
+      "time": "6:13",
+      "text": "شوێنی هەموو ڤیدیۆکانم پێ وت و پاشان دەسەڵاتم پێدا بچێتە ناو کتێبخانەی مۆسیقا و کتێبخانەی کاریگەرییە دەنگییەکانمەوە."
+    },
+    {
+      "time": "6:18",
+      "text": "وە بە کورتی تەنیا پێم وت: «ئەمە بکە بە پێشەکییەکی خۆشی دۆکیومێنتاری.» جا درۆ ناکەم. لە زۆربەی کاتەکاندا ناچار دەبم خۆم بچمە ناو کارەکەوە و هەندێک شت چاک بکەم وەک هەندێک کاریگەریی دەنگی، بەڵام"
+    },
+    {
+      "time": "6:26",
+      "text": "زۆربەی کارەکانم بۆ تەواو دەکات و بە کورتی تەنیا بەشە خۆشەکە بۆ من جێ دەهێڵێت. وەک چۆن لە سەرەتای ئەم ڤیدیۆیەدا وتم، ئەم دیمەنە دۆکیومێنتارییە تەنیا نزیکەی ٣٠ خولەکی پێ چووم تاوەکو"
+    },
+    {
+      "time": "6:33",
+      "text": "لە سەرەتاوە تا کۆتایی دروستش بکەم. بە بێ هۆشی مصنوعی، ئەوا ئەوە ڕەنگە چەند رۆژێکی پێ ببوایە، لای کەم ٢ رۆژ بە خەیاڵمدا دێت."
+    },
+    {
+      "time": "6:39",
+      "text": "ڕەنگە ٢ رۆژ بێت. کەواتە، لەگەڵ ئەمەدا یاری بکەن و ئەنجامەکانتانم لە ئینستاگرام بنێرن. منیش، پێم خۆشە ئەوە ببەین کە ئێوە دیتووتانەتە دەرەوە."
+    },
+    {
+      "time": "6:54",
+      "text": "[مۆسیقا]"
+    }
+  ]
+}
