@@ -1,0 +1,223 @@
+1
+00:00:00,000 --> 00:00:08,000
+I'm about to show you my setup that allows you to press a single button and it will build you a full 3D environment with professional lighting, textured objects, as well as animated characters.
+
+2
+00:00:08,000 --> 00:00:16,000
+This is unlike any other AI tutorial I've done because it actually puts us on a professional playing field using real 3D models and professional tools. Now,
+
+3
+00:00:16,000 --> 00:00:23,000
+make sure you're watching this in 4K because these results are pretty good.
+
+4
+00:00:23,000 --> 00:00:30,000
+Dana Kowalsski is driving to work when her headlights catch something. a camper with steel plates bolted over every
+
+5
+00:00:30,000 --> 00:00:39,000
+window and on the asphalt, a man in full combat gear laying on his back. Sarah doesn't get out. [music] She locks her doors and she calls 911.
+
+6
+00:00:39,000 --> 00:00:42,000
+911. What's your emergency, please?
+
+7
+00:00:42,000 --> 00:00:50,000
+Within the hour, that call lands with Frank Ostroski [music] at the FBI. He doesn't need the rest of the report. He already knows whose camper that is.
+
+8
+00:00:50,000 --> 00:00:58,000
+You have to understand, this stuff used to cost us thousands of dollars just for minutes of runtime. And now you have access to build your own multi-million dollar YouTube channel [music] like
+
+9
+00:00:58,000 --> 00:01:09,000
+Fern, you're about to experience what it's like to drink coffee, browse 3D models, and watch the story you had inside your head unfold into a beautiful 3D masterpiece. Now, I'm going to shut the hell up and show you how to do this.
+
+10
+00:01:09,000 --> 00:01:17,000
+Now, before you start freaking out that we have to use Blender, all we have to do is download it, open it, and [music] then essentially our job is over. And of course, Blender is free. So to download
+
+11
+00:01:17,000 --> 00:01:25,000
+it, we just have to search [music] Blender here, click on the first link, and then just select download. And so instead of just showing you quick examples, I'm going to show you in real
+
+12
+00:01:25,000 --> 00:01:32,000
+time here how I'm going to generate a clip for my mini documentary that I showed you in the intro. So I'm going to build all of this from scratch and then we're going to get that clip of her
+
+13
+00:01:32,000 --> 00:01:40,000
+inside of the car. You'll see in a second how easy this is. So I like to find and use my own 3D models, but after this process, everything else is
+
+14
+00:01:40,000 --> 00:01:46,000
+automated. So we're going to go to the website CGT Trader. I can type in any word I want and then I can select free.
+
+15
+00:01:46,000 --> 00:01:49,000
+And these are going to be all the models we can just download and use for free.
+
+16
+00:01:49,000 --> 00:01:57,000
+You can also get AI to generate you 3D models if you have like custom projects, but for now and for scenes like this, I figure why bother? So, I'm going to
+
+17
+00:01:57,000 --> 00:02:04,000
+search road. This one looks pretty good, so I'm going to hit download here. I'm going to search trees. Here's a nice free looking tree right here. So, I'll
+
+18
+00:02:04,000 --> 00:02:13,000
+download that. Going to search car. And here's all the cars we can download. I'm going to select this one. I also downloaded this one cuz it has the interior here. And that's what we want.
+
+19
+00:02:13,000 --> 00:02:21,000
+I searched for a woman, and this one's sitting [music] down. So, I'm going to download this one. I searched for an army soldier. So, here's a pretty cool one, but I [music] think I'm going to go
+
+20
+00:02:21,000 --> 00:02:30,000
+with this one. And by the way, I'm putting all of these 3D assets inside of a folder and labeling it 3D [music] references. This is going to come in really handy with our prompt. If you
+
+21
+00:02:30,000 --> 00:02:38,000
+want to get really lazy and truly have this a one-click process, you can have the agent find [music] 3D models for you and download them, but I like to handpick my own models. This is the
+
+22
+00:02:38,000 --> 00:02:46,000
+Google doc with the prompt, and it is in the description. It basically tells our AI agent what we want it to do in Blender. So, this includes things like cinematic lighting, smooth camera
+
+23
+00:02:46,000 --> 00:02:50,000
+movements. Now, once you copy this prompt, I'm going to open up Abacus AI.
+
+24
+00:02:50,000 --> 00:02:53,000
+They're the sponsor of this video, and I really like how efficient [music] it is.
+
+25
+00:02:53,000 --> 00:03:01,000
+I switch between multiple different agents in my editing process. And this gives us access to all of them in one spot for $10 a month. The link to this is in the description. So, I'm going to
+
+26
+00:03:01,000 --> 00:03:09,000
+select Claude. [music] Now, I'm going to click on Blender. And this is the first page it opens up. And we're going to go like this. And if you're wondering how I just know how to set everything up, the
+
+27
+00:03:09,000 --> 00:03:17,000
+answer is I don't. I just simply ask Claude, and it will tell you how to do anything. Hey man, as you can see, I have Blender [music] open. what do you want me to do so that you have full
+
+28
+00:03:17,000 --> 00:03:25,000
+access to sort through my files on my computer and build my Blender environment? And now it's just going to tell us exactly how to do it. There's basically no limit to what it can do.
+
+29
+00:03:25,000 --> 00:03:31,000
+[music] So, first it's telling us to download the Blender MCP. So, I'm going to search Blendermcp. [music]
+
+30
+00:03:31,000 --> 00:03:38,000
+Click on this first link. You're going to hit download and then you're going to drag that file into your Blender and it's going to install. And then inside of Blender, you're going to hit edit
+
+31
+00:03:38,000 --> 00:03:46,000
+preferences. We're going to come down to add-ons here. And then we're going to make sure the MCP is checked on like this. And I'm going to hit this drop-own menu and we're going to make sure that
+
+32
+00:03:46,000 --> 00:03:52,000
+the server is running. So now in Abacus AI agent, I'm just going to say, okay, the MCP server is running in Blender.
+
+33
+00:03:52,000 --> 00:04:00,000
+Let me know if you can connect. So now it says yes, I can connect to Blender and run commands in it. And then it's given me all of this stuff that I'm not going to read, but essentially it's
+
+34
+00:04:00,000 --> 00:04:08,000
+working. Now I'm going to come over to my doc and copy my prompt. And so right here it says shot. [music] And this is where we're going to describe basically
+
+35
+00:04:08,000 --> 00:04:17,000
+everything we want. And so here I just roughly described the scene I want like a country road with two cars facing each other in headlights. And then right here in the prompt it says mood/ reference.
+
+36
+00:04:17,000 --> 00:04:23,000
+So I'm just going to write I want it to be sunset early in the morning. And so here it's asking for the resolution in FPS. This will be different for
+
+37
+00:04:23,000 --> 00:04:31,000
+everybody, but I like to do 4K at 30 FPS. And then again, this prompt says render budget. And you can just type in
+
+38
+00:04:31,000 --> 00:04:38,000
+how many hours you're willing to have it take. And so if you had 5 hours of free time and you want it to take 5 hours to render, it'll [music] look like a
+
+39
+00:04:38,000 --> 00:04:47,000
+worldclass cinematic movie. But if you only have 5 or 10 minutes, which I used on the renders I showed you, um it still looks great. And so now once you fill everything out, our job here is done and
+
+40
+00:04:47,000 --> 00:04:56,000
+we can hit send. Now I also have in the prompt that once everything's built out and the camera's ready. Before it renders it out, it's going to check with me and make sure everything looks good
+
+41
+00:04:56,000 --> 00:05:04,000
+and then I can render it out. [music] So I can scroll around here, zoom into different objects, and I can position them however I want. So, if everything looks good, I can go ahead and say,
+
+42
+00:05:04,000 --> 00:05:12,000
+let's render this out. So, as you can see, we have all of our scenes built out. And so, before we set up another agent to put them all together in sound design and music, I'm going to show you
+
+43
+00:05:12,000 --> 00:05:20,000
+how I generated my voice over. And by the way, Claude Fable 5.2 is out, and I'm still experimenting with that. Um, some cases it's better, some cases it's
+
+44
+00:05:20,000 --> 00:05:27,000
+not, but for now, I'm just using Opus 5.5. So, on the Abacus AI website, they have a voice tab, and then I'm going to
+
+45
+00:05:27,000 --> 00:05:35,000
+select audio generation. And then here you can either type in what you want it to say if you already have your script or you can have it build your script and then it will generate it into a voice.
+
+46
+00:05:35,000 --> 00:05:42,000
+And so in this case I'm just going to say generate me the intro of a documentary. Now depending on how much you give it and if it's based on a true story, it'll actually do the research
+
+47
+00:05:42,000 --> 00:05:50,000
+for you as well. And then once you confirm the script, it'll generate the audio for us. So now we have our scenes here and our audio. I'm going to create
+
+48
+00:05:50,000 --> 00:05:59,000
+a new folder and I'm going to title it documentary edit. And I'm going to drag all of these in there. So now I'm going to open up Da Vinci Resolve or you can use any timeline editor of your choice.
+
+49
+00:05:59,000 --> 00:06:07,000
+I'm going to open up Aacus AI agent. I'm going to switch this to GPT6 Astro. In my opinion, it's just the best for sound design and cutting up your clips in Da
+
+50
+00:06:07,000 --> 00:06:13,000
+Vinci Resolve. So here I'm just going to type what I want it to do. There's no secret to this. You basically just talk to it like you're talking to an editor.
+
+51
+00:06:13,000 --> 00:06:18,000
+I told it the location of all the clips and then I gave it access to my music library and my sound effects library.
+
+52
+00:06:18,000 --> 00:06:26,000
+And I basically just said, "Turn this into a great documentary intro." Now, I'm not going to lie. The majority of the time I do have to go in and fix things like certain sound effects, but
+
+53
+00:06:26,000 --> 00:06:33,000
+it just gets the majority of my work done, and it basically just leaves the fun part for me. Like I said at the start of this video, this documentary clip only took me like 30 minutes to
+
+54
+00:06:33,000 --> 00:06:39,000
+build from start to finish. And without AI, that probably would have taken me days, like at least 2 days, I think.
+
+55
+00:06:39,000 --> 00:06:54,000
+Probably 2 days. So, play around with this and send me your results on my Instagram. I uh I'd love to see what you guys come up with.
+
+56
+00:06:54,000 --> 00:06:58,000
+[music]
