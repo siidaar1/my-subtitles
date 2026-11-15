@@ -1,0 +1,839 @@
+{
+  "id": "2026-11-15_16-09-08_UxcwkWkT6bc",
+  "url": "https://youtu.be/UxcwkWkT6bc?si=nw_cw0muBA9HJv7H",
+  "video_id": "UxcwkWkT6bc",
+  "title": "i gave claude a product. it built my entire dropshipping store. (ads too)",
+  "lang": "ckb",
+  "language": "Kurdish (Sorani)",
+  "engine": "gemini",
+  "created": "2026-11-15T16:09:08",
+  "status": "done",
+  "original": [
+    {
+      "time": "0:00",
+      "text": "In this video, I'm going to show you how I use AI to oneshot fully branded stores just like what you're seeing here on the screen. And I'll even show you how AI"
+    },
+    {
+      "time": "0:07",
+      "text": "can make and edit full video ads for the same product that look a little something like this."
+    },
+    {
+      "time": "0:12",
+      "text": "Okay, day one of wearing this shaw my husband bought me that plugs into a power bank apparently. So, it just goes over your shoulders and my hands come"
+    },
+    {
+      "time": "0:21",
+      "text": "out the bottom which fine. An hour of emails and I can actually type. My back and shoulders are warm. I'm usually"
+    },
+    {
+      "time": "0:29",
+      "text": "freezing at soccer practice and I'm literally not cold right now, which is annoying. Usually, I'm on this couch under two blankets and a hoodie. And"
+    },
+    {
+      "time": "0:36",
+      "text": "tonight, it's just this and I'm somehow warm. Okay, day one's done. He was right and I was wrong. Don't tell him. I'll put where he got it down below."
+    },
+    {
+      "time": "0:46",
+      "text": "Now, this store and this ad is something that would easily take anyone several hours or even days just to be able to create. And if you're also not too good"
+    },
+    {
+      "time": "0:54",
+      "text": "with using AI, it's still super difficult to be able to get good results the very first time. So that's why in this video, I'm going to share my exact"
+    },
+    {
+      "time": "1:01",
+      "text": "workflow that's going to literally allow you to oneshot any store or ad for any product that you want. So let's get straight into it. [music]"
+    },
+    {
+      "time": "1:10",
+      "text": "All right, so to make this work, you first need to install Claude Code on your computer. And then you're also going to need to download these two skill zip files in my description down"
+    },
+    {
+      "time": "1:18",
+      "text": "below. Once you have them, just drag them over to Claude Code. And then I'm simply just going to tell it to install the skills. Hit enter. And then within like 5 seconds, it's going to know"
+    },
+    {
+      "time": "1:26",
+      "text": "everything it needs to know to be able to build your store and make your video ad. So after installing those skills, we need to start a brand new chat again."
+    },
+    {
+      "time": "1:33",
+      "text": "This time we're going to select this folder down here. And you want to make a brand new folder on your desktop with the name of the product that you're selling. So for demonstration purposes,"
+    },
+    {
+      "time": "1:40",
+      "text": "we're going to be building a store and a video ad for this product that I found off of Zenrop. After creating the folder, the next is to select our model."
+    },
+    {
+      "time": "1:47",
+      "text": "So right now, Opus 5.5 is one of the best models. And if you want to get the best results, I recommend going with high or extra high thinking. But for the sake of this video, I'm just going to do"
+    },
+    {
+      "time": "1:56",
+      "text": "medium just so I can conserve my usage limits just a little bit. And now we need to type in slash build and then find where it says build store. And then now we just need to paste in a link to"
+    },
+    {
+      "time": "2:04",
+      "text": "our product. So this could either be our Shopify store, an AliExpress link, or in this case, I'm just going to grab the link from Zenrop itself. So the link is pasted. Now we press enter. And now give it a few seconds just to think about it."
+    },
+    {
+      "time": "2:15",
+      "text": "All right. So the first question is just asking where it should build our store."
+    },
+    {
+      "time": "2:18",
+      "text": "So, if you don't already have a store, you could go ahead and just click this link right here, and you're going to get a 3-day free trial. And then once the trial is over, you only have to pay a dollar a month for the next 3 months."
+    },
+    {
+      "time": "2:26",
+      "text": "Now, because I already have a store, I'm going to go ahead and select this option. Now, the next question is asking which image tool we use. And this part is important because we need some sort"
+    },
+    {
+      "time": "2:34",
+      "text": "of AI image generator that's going to help us generate all the content that we need for our product page. And what I highly recommend is to sign up for a"
+    },
+    {
+      "time": "2:42",
+      "text": "free Google Gemini account. This way you have access to Google Nano Banana which is one of the best image generators out right now. And with Google Gemini you"
+    },
+    {
+      "time": "2:49",
+      "text": "also have access to Google Flow which allows you to generate everything in one place which is a lot easier than using the standard Gemini chat. Now if we"
+    },
+    {
+      "time": "2:57",
+      "text": "select Google Flow inside of Claude basically what's going to happen is that Claude is just going to take over our Chrome browser and generate everything it needs using our Gemini account. And"
+    },
+    {
+      "time": "3:05",
+      "text": "of course if you don't want to use Google Gemini you can either use chatbt or any other platform that you use to generate all of your AI content. The next question is just basically asking"
+    },
+    {
+      "time": "3:14",
+      "text": "us who is our drop shipping supplier because obviously there's no point of building a store if we have no way to fulfill our orders. Now, one option that I recommend for beginners would be"
+    },
+    {
+      "time": "3:22",
+      "text": "Zenrop because it's super seamless and easy to use. And once we build out the store, I'll show you exactly how to set up Zenrop in case you want. Otherwise, if you already have another drop"
+    },
+    {
+      "time": "3:30",
+      "text": "shipping solution or your own supplier, you could select any one of these other options. Last question is basically asking us how hands-on do we want to be."
+    },
+    {
+      "time": "3:37",
+      "text": "In other words, Claude is basically asking whether you want it to build the entire store for you where you absolutely say nothing, or it could just ask you a couple of questions such as"
+    },
+    {
+      "time": "3:45",
+      "text": "what brand name that you want, what price do you want for your products, and things like that, which I personally think is worth doing. So, we're going to select this option, and then press submit. All right, so now it's asking us"
+    },
+    {
+      "time": "3:53",
+      "text": "to paste a link to our store. So, I'm just going to grab the link from my Shopify dashboard, paste it in, press enter, and then after submitting the link, it's going to help you connect"
+    },
+    {
+      "time": "4:01",
+      "text": "your cloud over to your Shopify store as we're going to need this once we start building out the store. And then it also just analyzed what our product is, did a little bit of market research, and kind"
+    },
+    {
+      "time": "4:09",
+      "text": "of just laid out all of its findings in the chat. And now it's asking us how much we want to sell our product for."
+    },
+    {
+      "time": "4:14",
+      "text": "So, because this product cost us about $24 from Zenrop, I think $69 is a pretty good price point because it's about 2.5 times what it costs us to fulfill it,"
+    },
+    {
+      "time": "4:23",
+      "text": "which is the general multiplier that I like to look for. And now it's asking us what brand name that we like. Now, of course, if you don't like any of the brand names, you can go ahead and just"
+    },
+    {
+      "time": "4:30",
+      "text": "ask it to generate more. But in this case, I'm just going to select this brand name right here. And now it's asking if everything from the table right here looks good. So basically it's"
+    },
+    {
+      "time": "4:38",
+      "text": "asking whether it has all the details correct about your products. And if everything looks good, you can go ahead and just select that option. But if you need to change or correct a few things, you can select this option right here."
+    },
+    {
+      "time": "4:47",
+      "text": "All right. So after submitting these questions, now it's actually going to start doing the heavy work and actually start building out and designing our store. So this could take around 10 to"
+    },
+    {
+      "time": "4:54",
+      "text": "15 minutes and I'll be back when it's done. All right, so it just finished up."
+    },
+    {
+      "time": "4:57",
+      "text": "So we can just click on this canvas link so that we can take a look at the product page. And as you can see, everything here looks pretty branded."
+    },
+    {
+      "time": "5:03",
+      "text": "Starting at the top, we have these nice branded images that look super high quality. We have this nice bundles widget so that we can increase our average order value. We have all these"
+    },
+    {
+      "time": "5:11",
+      "text": "nice little trust icons and things like that under the add toart button. We have like a nice instructional section right here. We have all these different sections that just explain the features"
+    },
+    {
+      "time": "5:20",
+      "text": "and benefits of our product. We got some lifestyle images right here. We have a comparison section of our product versus the competitors. We got some more social"
+    },
+    {
+      "time": "5:27",
+      "text": "proof right here and also a nice reviews widget. It even created the FAQ questions and also a nice guarantee section at the bottom and also a nice"
+    },
+    {
+      "time": "5:34",
+      "text": "little hero banner at the bottom. And it even completed our entire footer section. And it doesn't just do the product page, we also have a fully designed homepage as well. So, as you can see, we have this nice hero banner."
+    },
+    {
+      "time": "5:44",
+      "text": "We have this nice little bundle section so people can immediately buy and basically just a lot of other sections that kind of look similar to the product page. And what we can do is go up here"
+    },
+    {
+      "time": "5:52",
+      "text": "and select the screens mode because this allows us to highlight any section that we want so that we can give notes to Claude to tell it to change the order of the section or just make whatever change"
+    },
+    {
+      "time": "6:01",
+      "text": "that we want. So for example, at the bottom I noticed that these two sections right here are a little bit too close to each other. So I can literally just select this section and just say space"
+    },
+    {
+      "time": "6:09",
+      "text": "this away from the section right above it. And then on the left hand side I'm going to say read my note and make the change. Press enter and then we're going"
+    },
+    {
+      "time": "6:18",
+      "text": "to give it a few minutes and see what it's going to do. All right. So, it just finished up. Let's go ahead and open up the canvas and then check that out. Now, we can see that the spacing between these two sections look much better. So,"
+    },
+    {
+      "time": "6:27",
+      "text": "you basically just want to do this across your entire store. Make sure you also view your store in mobile view just to ensure that everything here also looks just as good. But you can already"
+    },
+    {
+      "time": "6:35",
+      "text": "see that I've designed this skill to make Claude super smart and make sure that everything looks just as good on mobile. And now we just need to head over to our Shopify store, click on"
+    },
+    {
+      "time": "6:43",
+      "text": "online store, and then you want to find the exact theme that Claude imported into the store. And then make sure that you click on publish. And now you have a store that's fully built and ready to"
+    },
+    {
+      "time": "6:51",
+      "text": "go. And after doing that, just go back into the cloud chat. Go ahead and tell it done. And now the next step from here is connecting our store to a drop shipping supplier. So that way once we"
+    },
+    {
+      "time": "7:00",
+      "text": "actually start getting some orders, we have some sort of way to actually fulfill them. In case you don't already have a drop shipping solution, feel free to follow along with me and I'll show you how to get this set up in just"
+    },
+    {
+      "time": "7:08",
+      "text": "literally the next minute. So we're going to select Zenrop, click on submit, and assuming you don't have a Zenrop account, you can select this option and then click on submit. And then it's going to open up the Zenrop website."
+    },
+    {
+      "time": "7:17",
+      "text": "Now, once you sign up, it's probably going to ask you to install the Zenrop app into your store. So, make sure you do all of that. Go back into the same Claude chat and then tell it that you're"
+    },
+    {
+      "time": "7:24",
+      "text": "done and then click on submit. And now, it's going to open up this page so that we can connect Zenrop over to Claude."
+    },
+    {
+      "time": "7:29",
+      "text": "So, make sure you click on connect and then click on authorize. So, after selecting that option, my Claude was actually having some issues seeing the new connection. And if that happens to"
+    },
+    {
+      "time": "7:37",
+      "text": "you, all you have to do is close your Claude app on your computer and restart it. And then just tell it to try again exactly like I did. And you can see that it was able to connect everything just"
+    },
+    {
+      "time": "7:45",
+      "text": "fine. So basically what it's going to do is help us connect our Shopify product with the Zenrop link so that it matches all the colors on our store with the exact colors that are offered by Zenrop."
+    },
+    {
+      "time": "7:54",
+      "text": "So if everything looks good, we can go ahead and just tell it to link it. And once you actually start getting orders on your store, all you have to do is go on the Zenrop app, go on your orders tab"
+    },
+    {
+      "time": "8:02",
+      "text": "right here, and all of your orders from your store are going to show up right here. And you're going to just simply click on this button that says fulfill all. And that's literally it. All of"
+    },
+    {
+      "time": "8:09",
+      "text": "your packages are going to be shipped from Zenrop's warehouses to your customers within like 7 to 12 days. So, now that we've set up fulfillment, you can go back into your Cloud chat and you"
+    },
+    {
+      "time": "8:17",
+      "text": "can select this option so that Claude can help you finish the rest of your store setup. So, that means helping you set up your shipping settings, your payments, your taxes, and your domain,"
+    },
+    {
+      "time": "8:26",
+      "text": "and basically all of the annoying things that take up so much of your time, but we can now just let Claude handle it for us. Now, I'm not going to walk you through the entire process because"
+    },
+    {
+      "time": "8:33",
+      "text": "Claude can literally do it for you. And instead, I'm going to show you how we're going to use Claude to make and edit an entire video ad for this exact same product. And best of all, it's going to"
+    },
+    {
+      "time": "8:42",
+      "text": "handle the entire process for us from A to Z. All right, so what you want to do is start up a fresh new chat inside of your cloud code. And this time, we're going to type in slash and type in"
+    },
+    {
+      "time": "8:50",
+      "text": "realistic and then find the skill that says realistic UGC ads. And then we just need to copy the exact link of our product page. Paste it along with that"
+    },
+    {
+      "time": "8:57",
+      "text": "slash command. Hit enter. And then it's just going to run us through some questions the exact same way that it did for our store build. So, as you can see, it's explaining us the entire plan and"
+    },
+    {
+      "time": "9:06",
+      "text": "how exactly it's going to create the ad for us. So, it's going to handle all the market research for us. It's going to make our character that matches our target audience. It's going to create the entire script and generate all of"
+    },
+    {
+      "time": "9:15",
+      "text": "the scenes that we need. And it's also going to edit the entire video for us so that we don't have to. Now, to ensure this actually works, again, you need to make sure that you have a Google Gemini"
+    },
+    {
+      "time": "9:23",
+      "text": "subscription because it's going to need to access Google Flow so that it could generate all the AI video. And this part is optional, and I recommend that you log your own personal Tik Tok account."
+    },
+    {
+      "time": "9:32",
+      "text": "This way, Claude can scan your for you page just so that it can look for viral videos from normal everyday people so that it can analyze all of their hooks"
+    },
+    {
+      "time": "9:39",
+      "text": "and their tone and speaking styles. This way, it can create an ad that actually feels native to the Facebook and Tik Tok algorithms. And once those are set up, you can go ahead and select this and"
+    },
+    {
+      "time": "9:48",
+      "text": "then it's basically going to start running through the entire process. All right, so after 20 minutes, it basically just did a ton of intense research to understand who our customers are. What"
+    },
+    {
+      "time": "9:56",
+      "text": "are the things that all of these people are saying? This way, it could develop us three different concepts of ads that we can choose from. and then we can decide which one we want to go for. So,"
+    },
+    {
+      "time": "10:04",
+      "text": "you can see the first concept is the wife always stealing the husband's hoodie, which I think is pretty relatable, especially for a lot of people who are in relationships. We got"
+    },
+    {
+      "time": "10:11",
+      "text": "a second concept of a person giving advice from someone who's been cold since 1974. Not really a fan of this one, so I'm not going to go with that."
+    },
+    {
+      "time": "10:19",
+      "text": "And there's also the third concept, which is derived from an actual Tik Tok that got 1.7 million views. And we can see that the concept is actually pretty"
+    },
+    {
+      "time": "10:26",
+      "text": "good to be honest. And again, the choice is completely ours. If we like two out of the three concepts, we can go ahead and create two ads out of that. But for the sake of this video, I'm going to"
+    },
+    {
+      "time": "10:34",
+      "text": "choose concept one and show you how easy and simple it is to be able to get an ad that looks pretty good for this product."
+    },
+    {
+      "time": "10:39",
+      "text": "So, I'm going to select this and then I'll be back when it's done. So, what it's doing first is creating all the characters that are going to appear in our video ad. And then it's also"
+    },
+    {
+      "time": "10:46",
+      "text": "analyzing exactly how our product looks like. This way, it could develop very accurate product sheets that's going to be given to our AI video generator to"
+    },
+    {
+      "time": "10:54",
+      "text": "ensure that our product is actually going to look accurate. And from here, we basically just have to tell Claude whether we approve of these product sheets or not, or whether we approve of"
+    },
+    {
+      "time": "11:02",
+      "text": "the characters that it's generated. And if everything is good to go, we can either let Claude generate just the hook of the video first, just so we can get an idea of how the ad is going to look, or we could just generate the entire ad."
+    },
+    {
+      "time": "11:12",
+      "text": "In this case, let's just generate the full ad, and I'm going to show you the result. All right, so the ad just finished generating, and let's go ahead and see how this came out. My wife"
+    },
+    {
+      "time": "11:19",
+      "text": "always steals my hoodie, so I got her a heated wrap that goes over your shoulders like a cape. No sleeves, and it zips from the bottom all the way up"
+    },
+    {
+      "time": "11:27",
+      "text": "so her hands [music] stay free. Her power bank goes in a pocket on the inside. She holds the button to turn it on, taps it for three heat settings, and"
+    },
+    {
+      "time": "11:34",
+      "text": "it warms right across your back and shoulders. Dishes, laundry, emails, all of it. And it just looks like a sweater. Okay, you can have your hoodies back."
+    },
+    {
+      "time": "11:43",
+      "text": "[music]"
+    },
+    {
+      "time": "11:43",
+      "text": "If your wife keeps stealing your hoodies, too, it's linked down below."
+    },
+    {
+      "time": "11:46",
+      "text": "But as you can see, the ad came out pretty good. And I think it's pretty impressive knowing that Claude handled the generation of every single scene and it edited the entire video together. And"
+    },
+    {
+      "time": "11:55",
+      "text": "inside of the chat, it also gives us access to this artifact so that we can actually watch the entire ad and know exactly which scene is what. So that in"
+    },
+    {
+      "time": "12:03",
+      "text": "case we notice some issues of a particular scene, we can select this note button and type in exactly what the problem is. And we can essentially do the exact same thing that we were doing"
+    },
+    {
+      "time": "12:11",
+      "text": "with the store build where we literally just tell Claw to correct any of its mistakes. And you basically just repeat this process until you have a full video ad that you're happy with. Now, because"
+    },
+    {
+      "time": "12:20",
+      "text": "Claude edited this entire ad without using any type of video editor, you do have the option to allow Claude to edit the exact same ad on something like Cap"
+    },
+    {
+      "time": "12:28",
+      "text": "Cut. This way, you can have access to the timeline and have a little bit more control and fix a few mistakes yourself if you want to. So, that's pretty much my entire process on how I use Claw to"
+    },
+    {
+      "time": "12:37",
+      "text": "help me build fully branded stores and create video ads for basically any product that I want. If you found this video helpful, I would appreciate it if you drop a like and subscribe to this"
+    },
+    {
+      "time": "12:45",
+      "text": "channel as I'm going to keep making more videos on how I'm using AI to help with all aspects with my drop shipping stores. And also follow me on Twitter as I share some tips from time to time on"
+    },
+    {
+      "time": "12:54",
+      "text": "everything that I'm doing with AI. And with that being said, I thank you so much for watching and I'll catch you on the next one."
+    },
+    {
+      "time": "13:01",
+      "text": "[music]"
+    },
+    {
+      "time": "13:06",
+      "text": "[music]"
+    }
+  ],
+  "translated": [
+    {
+      "time": "0:00",
+      "text": "له‌م ڤیدیۆیەدا، پیشانتان دەدەم چۆن هۆشی دەستکرد بەکاردەهێنم بۆ دروستکردنی فرۆشگای مۆدێرن و مارکەی تەواو بە یەک جار، وەک ئەوەی لێرە لەسەر شاشە دەیبینن. و تەنانەت پیشانیشتان دەدەم چۆن هۆشی دەستکرد"
+    },
+    {
+      "time": "0:07",
+      "text": "دەتوانێت ڕیکلامی ڤیدیۆیی تەواو بۆ هەمان بەرهەم دروست بکات و دەستکارییان بکات کە کەمێک بەم شێوەیە دەردەکەون."
+    },
+    {
+      "time": "0:12",
+      "text": "باشە، ڕۆژی یەکەمی لەبەرکردنی ئەم کراسە گەرمەی مێردەکەم بۆی کڕیم کە دەبێت لە پاوەر بانکی ببەسترێت. کەواتە، تەنها دەکەوێتە سەر شانەکانم و دەستەکانم دێنە"
+    },
+    {
+      "time": "0:21",
+      "text": "خوارەوە کە ئاساییە. کاتژمێرێک نامەی ئەلیکترۆنی و بەڕاستی دەتوانم بنووسم. پشت و شانەکانم گەرم بوون. من بە شێوەیەکی گشتی"
+    },
+    {
+      "time": "0:29",
+      "text": "لە کاتی مەشقەکانی تۆپی پێدا زۆر سارد دەبمەوە و ئێستا بەڕاستی ساردم نییە، کە ئەمەش بزارکەرە. بە شێوەیەکی گشتی، من لەسەر ئەم قەنەفەیەم لە ژێر دوو بەڕە و هۆدییەکدا. و"
+    },
+    {
+      "time": "0:36",
+      "text": "ئەمشەو، تەنها ئەمەیە و بە شێوازێک گەرمم. باشە، ڕۆژی یەکەم تەواو بوو. ئەو ڕاستی کرد و من هەڵە بووم. پێی مەڵێن. شوێنەکەی کە لێی کڕیوە لە خوارەوە دەنووسم."
+    },
+    {
+      "time": "0:46",
+      "text": "ئێستا، ئەم فرۆشگایە و ئەم ڕیکلامە شتێکە کە بە ئاسانی چەندین کاتژمێر یان تەنانەت ڕۆژی دەوێت بۆ هەر کەسێک تەنها بۆ ئەوەی بتوانێت دروستی بکات. وە ئەگەر تۆش زۆر شارەزا نەبیت"
+    },
+    {
+      "time": "0:54",
+      "text": "لە بەکارهێنانی هۆشی دەستکرددا، هێشتا زۆر سەختە بۆ ئەوەی لە یەکەم جاردا ئەنجامی باش بەدەستبهێنیت. بۆیە لەم ڤیدیۆیەدا، دەمەوێت ڕێکارە دروستەکانم"
+    },
+    {
+      "time": "1:01",
+      "text": "هاوبەش بکەم کە بەڕاستی ڕێگەت پێدەدات بە یەک جار هەر فرۆشگایەک یان ڕیکلامێک بۆ هەر بەرهەمێک کە دەتەوێت دروست بکەیت. کەواتە با ڕاستەوخۆ بچینە ناو بابەتەکەوە. [مۆسیقا]"
+    },
+    {
+      "time": "1:10",
+      "text": "باشە، کەواتە بۆ ئەوەی ئەمە کار بکات، سەرەتا پێویستە Claude Code لەسەر کۆمپیوتەرەکەت دابمەزرێنیت. پاشان هەروەها پێویستە ئەم دوو فایلە زیپەی لێهاتووییەکان داببەزێنیت کە لە خوارەوە لە بەشی"
+    },
+    {
+      "time": "1:18",
+      "text": "ڕونکردنەوەکانمدان. کاتێک بەدەستت هێنان، تەنها ڕایانكێشە بۆ سەر Claude Code. وە پاشان تەنها پێی دەڵێم کە لێهاتووییەکان دامەزرێنە. کلیکی enter بکە. وە پاشان لە ماوەی 5 چرکەدا، هەموو شتێک"
+    },
+    {
+      "time": "1:26",
+      "text": "دەزانێت کە پێویستییە بۆ ئەوەی بتوانێت فرۆشگاکەت دروست بکات و ڕیکلامە ڤیدیۆییەکەت ساز بکات. کەواتە لە دوای دامەزراندنی ئەو لێهاتووییانە، پێویستە دەست بە چاتێکی نوێی تر بکەینەوە."
+    },
+    {
+      "time": "1:33",
+      "text": "ئەمجارەیان ئەم فۆڵدەرەی خوارەوە هەڵدەبژێرین. وە دەتەوێت فۆڵدەرێکی نوێ لە سەر شاشەی کۆمپیوتەرەکەت بە ناوی ئەو بەرهەمەوە دروست بکەیت کە دەیفرۆشیت. بۆیە بۆ مەبەستی نموونە،"
+    },
+    {
+      "time": "1:40",
+      "text": "ئێمە فرۆشگایەک و ڕیکلامێکی ڤیدیۆیی بۆ ئەم بەرهەمە دروست دەکەین کە لەسەر Zenrop دۆزیومەتەوە. دوای دروستکردنی فۆڵدەرەکە، هەنگاوی داهاتوو هەڵبژاردنی مۆدێلەکەمانە."
+    },
+    {
+      "time": "1:47",
+      "text": "ئێستا Opus 5.5 یەکێکە لە باشترین مۆدێلکان. وە ئەگەر دەتەوێت باشترین ئەنجام بەدەستبهێنیت، پێشنیار دەکەم مۆدێلی بیرکردنەوەی بەرز یان زۆر بەرز هەڵبژێریت. بەڵام لەبەر ئەم ڤیدیۆیە، تەنها"
+    },
+    {
+      "time": "1:56",
+      "text": "دەیەمە ناوەند هەڵبژێرم بۆ ئەوەی سنوری بەکارهێنانی خۆم کەمێک بپارێزم. و ئێستا دەبێت لە هێڵی فەرماندا /build بنووسین و پاشان بگەڕێین بۆ ئەوەی نووسراوە لە کوێ دەڵێت build store. وە ئێستا تەنها پێویستە بەستەرێک بۆ"
+    },
+    {
+      "time": "2:04",
+      "text": "بەرهەمەکەمان لەوێ دابنێین. کەواتە ئەمە دەکرێت فرۆشگای شۆپیفای ئێمە بێت، بەستەرێکی عەلی ئێکسپرێس بێت، یان لەم حاڵەتەدا تەنها بەستەرەکە لە خودی Zenrop وەردەگرم. کەواتە بەستەرەکە دانرا. ئێستا دوگمەی enter سەر دەکەین. و ئێستا چەند چرکەیەک مۆڵەت بدە بۆ ئەوەی بیری لێ بکاتەوە."
+    },
+    {
+      "time": "2:15",
+      "text": "باشە. کەواتە پرسیاری یەکەم تەنها ئەوەیە کە پرسیار دەکات لە کوێ دەبێت فرۆشگاکەمان دروست بکات."
+    },
+    {
+      "time": "2:18",
+      "text": "کەواتە، ئەگەر پێشوەختە فرۆشگایەکت نییە، دەتوانیت پێشڕەوی بکەیت و تەنها لەم بەستەرەی لێرەدایە بدەیت، و تاقیکردنەوەیەکی خۆڕایی 3 ڕۆژەت پێدەدرێت. وە کاتێک تاقیکردنەوەکە تەواو بوو، تەنها پێویستە بۆ 3 مانگی داهاتوو مانگانە یەک دۆلار بدەیت."
+    },
+    {
+      "time": "2:26",
+      "text": "ئێستا، لەبەر ئەوەی من پێشوەختە فرۆشگایەکم هەیە، دەچمە پێشەوە و ئەم هەڵبژاردەیە هەڵدەبژێرم. ئێستا، پرسیاری داهاتوو دەپرسێت کە کام ئامرازی وێنە بەکاردەهێنین. وە ئەم بەشە گرنگە چونکە پێویستمان بە جۆرێکە"
+    },
+    {
+      "time": "2:34",
+      "text": "لە دروستکەری وێنەی هۆشی دەستکرد کە یارمەتیمان بدات هەموو ئەو ناوەڕۆکە دروست بکەین کە بۆ پەڕەی بەرهەمەکەمان پێویستمانە. وە ئەوەی زۆر پێشنیاری دەکەم ئەوەیە کە خۆت تۆمار بکەیت لە"
+    },
+    {
+      "time": "2:42",
+      "text": "هەژمارێکی خۆڕایی Google Gemini. بەم شێوەیە دەستت بە Google Nano Banana ڕادەگات کە یەکێکە لە باشترین دروستکەرەکانی وێنە لە ئێستادا. وە لەگەڵ Google Gemini دەتوانیت"
+    },
+    {
+      "time": "2:49",
+      "text": "هەروەها دەستگەیشتنیشتان بە Google Flow هەیە کە ڕێگەتان پێدەدات هەموو شتێک لە یەک شوێندا دروست بکەن کە ئەمەش زۆر ئاسانترە لەوەی چاتی ئاسایی جێمینی بەکاربهێنن. ئێستا ئەگەر ئێمە"
+    },
+    {
+      "time": "2:57",
+      "text": "Google Flow لە ناو Claude دا هەڵبژێرین، بە کورتی ئەوەی ڕوودەدات ئەوەیە کە کلۆد تەنها کۆنترۆڵی وێبگەڕی کرۆمی ئێمە دەگرێتە دەست و هەموو ئەو شتانە دروست دەکات کە پێویستن بە بەکارهێنانی هەژماری جێمینییەکەمان. وە"
+    },
+    {
+      "time": "3:05",
+      "text": "بگومان ئەگەر نەتەوێت Google Gemini بەکاربهێنیت، ئەوا دەتوانیت چات جی پی تی یان هەر پلاتفۆرمێکی تر بەکاربهێنیت کە بۆ دروستکردنی ناوەڕۆکی زیرەکی دەستکرد بەکاری دەهێنیت. پرسیاری داهاتوو بە سادەیی دەپرسێت"
+    },
+    {
+      "time": "3:14",
+      "text": "لە ئێمە کە دابینکەری درۆپشیپینگی ئێمە کێیە چونکە بە دلنیاییەوە هیچ سوودێک لە دروستکردنی فرۆشگایەک نییە ئەگەر هیچ ڕێگایەکمان نەبێت بۆ جێبەجێکردنی داواکارییەکانمان. جا یەکێک لەو هەڵبژاردانەی کە من بۆ دەستپێک پێشنیاری دەکەم بریتییە لە"
+    },
+    {
+      "time": "3:22",
+      "text": "Zenrop چونکە زۆر ڕێک و پێشک و بەکارهێنانی ئاسانە. وە کاتێک فرۆشگاکە دروست دەکەین، بە وردی نیشانت دەدەم چۆن Zenrop ڕێکبخەیت ئەگەر بتەوێت. ئەگەرچی، ئەگەر پێشتر چارەسەرێکی تری درۆپشیپینگت"
+    },
+    {
+      "time": "3:30",
+      "text": "هەبێت یان دابینکەری خۆتت هەبێت، دەتوانیت هەر یەکێک لەم هەڵبژاردنە تر هەڵبژێریت. پرسیاری کۆتایی بە شێوەیەکی بنەڕەتی دەپرسێت کە تا چەند دەمانوێت دەستمان لە کارەکەدا هەبێت."
+    },
+    {
+      "time": "3:37",
+      "text": "بە واتایەکی تر، کلۆد بە بنەڕەت دەپرسێت کە ئایا دەتەوێت هەموو فرۆشگاکەت بۆ دروست بکات بەبێ ئەوەی هیچ بڵێیت، یان دەکرێت تەنها چەند پرسیارێکت لێبکات وەک"
+    },
+    {
+      "time": "3:45",
+      "text": "چی ناوێکت بۆ براندەکە دەوێت، چ نرخێکت دەوێت بۆ بەرهەمەکانت، و شتی لەم شێوەیە، کە بەڕای خۆم شایەنی ئەوەیە بیکەین. کەواتە، ئێمە ئەم هەڵبژاردنە هەڵدەبژێرین، و پاشان دوگمەی ناردن دەگرین. باشە، ئێستا داوادەکات"
+    },
+    {
+      "time": "3:53",
+      "text": "بەستەرێک بۆ فرۆشگاکەمان دابنێین. بۆیە من تەنها بەستەرەکە لە داشبۆردی Shopifyـەکەمەوە دەبەم، دایبنێم، دەینێم بە دوگمەی ئینتەردا، و پاشان دوای ناردنی بەستەرەکە، یارمەتیت دەدات بۆ بەستنەوەی"
+    },
+    {
+      "time": "4:01",
+      "text": "کلۆدەکەت بە فرۆشگای Shopifyـەکەتەوە چونکە پێویستمان بەمە دەبێت کاتێک دەست دەکەین بە دروستکردنی فرۆشگاکە. وە پاشان شیکردنەوەی بۆ ئەوەش کرد کە بەرهەمەکەمان چییە، کەمێک توێژینەوەی بازاڕی کرد، و جۆرێک لە"
+    },
+    {
+      "time": "4:09",
+      "text": "خستنەڕووی دۆزینەوەکانی خۆی لە چاتەکەدا کرد. و ئێستا دەپرسێت کە بە چ نرخێک دەمانوێت بەرهەمەکەمان بفرۆشین."
+    },
+    {
+      "time": "4:14",
+      "text": "کەواتە، لەبەر ئەوەی ئەم بەرهەمە نزیکەی ٢٤ دۆلاری لە Zenrop تێچووە، پێموایە ٦٩ دۆلار خاڵێکی نرخی زۆر باشە چونکە نزیکەی ٢.٥ ئەوەندەی تێچووی جێبەجێکردنەکەیە،"
+    },
+    {
+      "time": "4:23",
+      "text": "کە ئەوەش ئەو لێکدەرە گشتییەیە کە حەز دەکەم بەدوایدا بگەرێم. و ئێستا دەپرسێت کە کام ناوی براندەمان بەدڵە. ئێستا بێگومان، ئەگەر هیچ کام لە ناوی براندەکانت بەدڵ نەبوو، دەتوانیت پێشوەختە بچیت و"
+    },
+    {
+      "time": "4:30",
+      "text": "داوای لێبکەیت کە زیاتریان دروست بکات. بەڵام لەم حاڵەتەدا، من تەنها ئەم ناوی براندەی لێرەدا هەڵدەبژێرم. و ئێستا دەپرسێت کە ئایا هەموو شتێکی سەر خشتەکەی لێرەدا باش دەردەکەوێت. بە کورتی ئەوەیە"
+    },
+    {
+      "time": "4:38",
+      "text": "دەپرسێت کە ئایا هەموو وردەکارییەکانی سەر بەرهەمەکانت ڕاستن یان نا. و ئەگەر هەموو شتێک باش بوو، دەتوانیت پێشوەختە تەنها ئەو هەڵبژاردنە بکەیت. بەڵام ئەگەر پێویست بکات چەند شتێک بگۆڕیت یان ڕاست بکەیتەوە، دەتوانیت ئەم هەڵبژاردنەی لێرەدا هەڵبژێریت."
+    },
+    {
+      "time": "4:47",
+      "text": "باشە. کەواتە دوای پێشکەشکردنی ئەم پرسیارانە، ئێستا بەڕاستی دەست دەکات بە ئەنجامدانی کاری قورس و بەڕاستی دەست دەکات بە دروستکردن و دیزاینکردنی فرۆشگاکەمان. بۆیە ئەمە دەکرێت نزیکەی ١٠ بۆ"
+    },
+    {
+      "time": "4:54",
+      "text": "١٥ خولەک بخایەنێت و من دەگەڕێمەوە کاتێک تەواو دەبێت. باشە، کەواتە ئێستا تەواو بوو."
+    },
+    {
+      "time": "4:57",
+      "text": "کەواتە دەتوانین تەنها کرتە لەسەر ئەم بەستەری کەنڤاسە بکەین بۆ ئەوەی بتوانیین سەیری پەڕەی بەرهەمەکە بکەین. و وەکو دەیبینن، هەموو شتێکی لێرەدا زۆر بە براندکراو دەردەکەوێت."
+    },
+    {
+      "time": "5:03",
+      "text": "لە سەرەوە دەست پێدەکەین، ئەم وێنە براندکراوە جوانانەمان هەیە کە کوالیتییان زۆر بەرزە. ئەم ویجێتە جوانی کۆمەڵە بەرهەمانەمان هەیە بۆ ئەوەی بتوانین تێکڕای بەهای داواکارییەکانمان زیاد بکەین. ئێمە ئەم هەموو"
+    },
+    {
+      "time": "5:11",
+      "text": "هێما متمانەپێکراوە بچووکە جوانانە و شتی لەو شێوەیەمان هەیە لە ژێر دوگمەی زیادکردن بۆ سەبەتە. ئێمە وەک بەشێکی ڕێنمایی جوانی لێرەمان هەیە. هەموو ئەم بەشە جیاوازانەمان هەیە کە تەنها تایبەتمەندییەکان دەڕووننەوە"
+    },
+    {
+      "time": "5:20",
+      "text": "و سوودەکانی بەرهەمەکەمان. هەندێک وێنەی ژیانی ڕۆژانەمان لێرە هەیە. بەشێکی بەراوردکاری بەرهەمەکەمان بەرامبەر بە ڕکابەرەکانمان هەیە. هەندێکی تریش کۆمەڵایەتیمان هەیە"
+    },
+    {
+      "time": "5:27",
+      "text": "بەڵگەی لێرەدا و هەروەها ویدجێتێکی پێداچوونەوەی جوان. تەنانەت پرسیارە باوەکانی دروست کرد و هەروەها بەشێکی زامنکردنی جوانیش لە خوارەوە و هەروەها"
+    },
+    {
+      "time": "5:34",
+      "text": "بانەرێکی سەرەکی جوانیش لە خوارەوە. و تەنانەت تەواوی بەشی خوارەوەی لاپەڕەکەشی تەواو کرد. وە تەنها پەڕەی بەرهەمەکە ناکات، بەڵکو لاپەڕەی سەرەکی تەواو دیزاینکراویشمان هەیە. کەواتە، وەکو دەبینن، ئەم بانەرە سەرەکییە جوانەمان هەیە."
+    },
+    {
+      "time": "5:44",
+      "text": "ئەم بەشە بچووکە جوانەی پاکێجەکانمان هەیە بۆ ئەوەی خەڵک بتوانن دەستبەجێ بکڕن و بە کورتیەکەی زۆر بەشی تریش کە لە پەڕەی بەرهەمەکە دەچن. و ئەوەی دەتوانین ئەنجامی بدەیم ئەوەیە کە بچینە سەرەوە"
+    },
+    {
+      "time": "5:52",
+      "text": "و دۆخی شاشەکان هەڵبژێرین چونکە ئەمە ڕێگامان پێدەدات هەر بەشێک کە دەمانەوێت دیاری بکەین بۆ ئەوەی تێبینی بدەینە کلۆد بۆ ئەوەی پێی بڵێین ڕیزبەندی بەشەکە بگۆڕێت یان تەنها هەر گۆڕانکارییەک بکات"
+    },
+    {
+      "time": "6:01",
+      "text": "کە دەمانەوێت. بۆ نموونە لە خوارەوە تێبینییم کرد کە ئەم دوو بەشەی لێرەدان زۆر لە یەکدییەوە نزیکن. کەواتە بە شێوەیەکی ڕستەیی دەتوانم ئەم بەشە هەڵبژێرم و تەنها بڵێم بۆشایی"
+    },
+    {
+      "time": "6:09",
+      "text": "لە نێوان ئەم و ئەو بەشەی سەرەوەیدا دروست بکە. وە پاشان لە لای چەپەوە دێم دەڵێم تێبینییەکەم بخوێنەوە و گۆڕانکارییەکە بکە. ئینتەر داگرە و پاشان"
+    },
+    {
+      "time": "6:18",
+      "text": "چەند خوولەکێک مۆڵەتی پێدەدەین و دەبینین چی دەکات. باشە. کەواتە، تازە تەواو بوو. با فەرمووین کانڤاسەکە بکەینەوە و سەیری بکەین. ئێستا، دەبینین کە مەودای نێوان ئەم دوو بەشە زۆر باشتر دەردەکەوێت. بۆیە،"
+    },
+    {
+      "time": "6:27",
+      "text": "بە شێوەیەکی بنەڕەتی تەنها دەتەوێت ئەمە بە درێژایی تەواوی فرۆشگاکەت ئەنجام بدەیت. دڵنیابە لەوەی کە فرۆشگاکەت لە دۆخی مۆباایلشدا دەبینیت تەنها بۆ ئەوەی دڵنیابیت کە هه‌موو شتێکی لێرەش بە هەمان شێوە جوان دەردەکەوێت. بەڵام دەتوانیت پێشوەختە"
+    },
+    {
+      "time": "6:35",
+      "text": "ببینی کە من ئەم لێهاتووییەم دیزاین کردووە بۆ ئەوەی کلۆد زۆر زیرەک بکات و دڵنیابێت لەوەی کە هه‌موو شتێک لەسەر مۆباایلشدا بە هەمان شێوە جوان دەردەکەوێت. وە ئێستا تەنها پێویست دەکات بچینە سەر فرۆشگای شۆپیفایەکەمان، کرتە بکەین لەسەر"
+    },
+    {
+      "time": "6:43",
+      "text": "فرۆشگای ئۆنلاین، و پاشان دەتەوێت ئەو ڕووکارە מדققەتە بدۆزیتەوە کە کلۆد هێنایە ناو فرۆشگاکەوە. وە پاشان دڵنیابە لەوەی کە کرتە لەسەر بڵاوکردنەوە (پۆبڵیش) بکەیت. وە ئێستا فرۆشگایەکت هەیە کە بە تەواوی دروست کراوە و ئامادەیە"
+    },
+    {
+      "time": "6:51",
+      "text": "بۆ کارکردن. وە دوای ئەوەی ئەوەت کرد، تەنها بگەڕێوە ناو چاتی کلۆد. بچۆ و پێی بڵێ تەواو بوو. و ئێستا هەنگاوی داهاتوو لێرەدا بەستنەوەی فرۆشگاکەمانە بە دابینکەرێکی دڕۆپشیپینگەوە. بە جۆرێک کە کاتێک"
+    },
+    {
+      "time": "7:00",
+      "text": "لە ڕاستیدا دەست دەکەین بە وەرگرتنی هەندێک داواکاری، ڕێگەیەکمان هەبێت بۆ جێبەجێکردنیان. ئەگەر بۆ خۆت هێشتا چارەسەرێکی دڕۆپشیپینگت نییە، ئازاد بە لە بەدواداچوون لەگەڵ مندا و پیشانت دەدەم چۆن ئەمە ڕێکبخەیت تەنها لە"
+    },
+    {
+      "time": "7:08",
+      "text": "خولەکی داهاتوودا. کەواتە ئێمە زینڕۆپ هەڵدەبژێرین، کرتە لەسەر ناردن دەکەین، و بە گریمانەی ئەوەی کە هەژماری زینڕۆپت نییە، دەتوانیت ئەم هەڵبژاردەیە هەڵبژێریت و پاشان کرتە لەسەر ناردن بکەیت. و پاشان ماڵپەڕی زینڕۆپ دەكاته‌وە."
+    },
+    {
+      "time": "7:17",
+      "text": "ئێستا، کاتێک خۆت تۆمار دەکەیت، لەوانەیە داوات لێبکات ئەپی زینڕۆپ لە فرۆشگاکەتدا دامەزرێنیت. بۆیە، دڵنیابە لەوەی کە هه‌موو ئەمانە دەکەیت. بگەڕێوە ناو هەمان چاتی کلۆد و پاشان پێی بڵێ کە تۆ"
+    },
+    {
+      "time": "7:24",
+      "text": "تەواو بوویت و پاشان کرتە لەسەر ناردن بکە. و ئێستا، ئەم لاپەڕەیە دەكاته‌وە بۆ ئەوەی بتوانین زینڕۆپ بە کلۆدەوە ببەستینەوە."
+    },
+    {
+      "time": "7:29",
+      "text": "کەواتە، دڵنیابە لەوەی کرتە لەسەر پەیوەندیکردن دەکەیت و پاشان کرتە لەسەر ڕێپێدان دەکەیت. کەواتە، دوای هەڵبژاردنی ئەو بژاردەیە، کلۆدەکەم لە ڕاستیدا هەندێک کێشەی هەبوو لە بینینی پەیوەندییە نوێیەکەدا. و ئەگەر ئەوە ڕوویدا لەگەڵ"
+    },
+    {
+      "time": "7:37",
+      "text": "تۆدا، ئەوەی دەبێت بیکەیت تەنها داخستنی ئەپی کلۆدە لەسەر کۆمپیوتەرەکەت و دووبارە دەستپێکردنەوەیەتی. و پاشان تەنها پێی بڵێ کە دووبارە هەوڵ بدە هەروەک چۆن من کردوومە. وە دەتوانیت ببینی کە توانیویەتی هه‌موو شتێک ببەستێتەوە بە شێوەیەکی"
+    },
+    {
+      "time": "7:45",
+      "text": "زۆر باش. کەواتە بە شێوەیەکی بنەڕەتی ئەوەی دەیکات ئەوەیە کە یارمەتیمان دەدات بەرهەمی شۆپیفایەکەمان بە بەستەری زینڕۆپەوە ببەستینەوە بۆ ئەوەی لەگەڵ هەموو ڕەنگەکانی سەر فرۆشگاکەماندا بگونجێت لەگەڵ ئەو ڕەنگە وردانەی کە لەلایەن زینڕۆپەوە پێشکەش دەکرێن."
+    },
+    {
+      "time": "7:54",
+      "text": "کەواتە ئەگەر هه‌موو شتێک بە باشی دەرکەوت، دەتوانین پێشڕەوی بکەین و تەنها پێی بڵێین کە بیانبەستێتەوە. و کاتێک لە ڕاستیدا دەست دەکەیت بە وەرگرتنی داواکاری لەسەر فرۆشگاکەت، ئەوەی دەبێت بیکەیت تەنها ئەوەیە کە بچیتە سەر ئەپی زینڕۆپ، بچیتە سەر خشتەی داواکارییەکانت"
+    },
+    {
+      "time": "8:02",
+      "text": "لێرەدا، و هەموو داواکارییەکانی فرووشگاکەت لێرەدا دەردەکەون. تەنها کرتە لەسەر ئەم دوگمەیە دەکەیت کە نوسراوە جێبەجێکردنی هەموویان. و ئەوە ڕەبەنییە. هەموو"
+    },
+    {
+      "time": "8:09",
+      "text": "پاکەتەکانت لە کۆگاڕەکانی Zenrop وە دەگوازرێنەوە بۆ کڕیارەکانت لە ماوەی ٧ بۆ ١٢ ڕۆژدا. کەواتە، ئێستا کە جێبەجێکردنمان ڕێکخست، دەتوانیت بگەڕێیتەوە ناو چاتی کلاودەکەت و"
+    },
+    {
+      "time": "8:17",
+      "text": "ئەم بژاردەیە هەڵبژێریت بۆ ئەوەی کلۆد بتوانێت یارمەتیت بدات لە تەواوکردنی بەشەکەی تری ڕێکخستنی فرۆشگاکەت. کەواتە، ئەوە مانای یارمەتیدانتە لە ڕێکخستنی ڕێکخستنەکانی گواستنەوە، پارەدان، باج، و دۆمەینەکەت،"
+    },
+    {
+      "time": "8:26",
+      "text": "و بە شێوەیەکی بنەڕەتی هەموو ئەو شتە بزارکەرانەی کە کاتێکی زۆر دەبرن، بەڵام ئێستا دەتوانین تەنها ڕێگە بدەین کلۆد بۆمان جێبەجێی بکات. ئێستا، من هەموو پرۆسەکەت پێ نیشان نادەم چونکە"
+    },
+    {
+      "time": "8:33",
+      "text": "کلۆد بەڕاستی دەتوانێت بۆت بکات. و لە شوێنی ئەوەدا، پیشانت دەدەم کە چۆن کلۆد بەکاردەهێنین بۆ دروستکردن و دەستکاریکردنی ڕیکلامێکی ڤیدیۆیی تەواو بۆ ئەم بەرهەمە دیاریکراوە. و لە هەمووی خۆشتر،"
+    },
+    {
+      "time": "8:42",
+      "text": "سەرجەم پرۆسەکە لە سەرەتاوە بۆ کۆتایی بۆ ئێمە بەڕێوەدەبات. باشە، کەواتە ئەوەی دەبێت بیکەیت ئەوەیە کە چاتێکی نوێ و تێر لە ناو کۆدی کلاودەکەت دەست پێبکەیت. و ئەمجارەیان، هێڵی خوارو و پاشان دەنووسین"
+    },
+    {
+      "time": "8:50",
+      "text": "ڕیالیستیک و پاشان ئەو شارەزاییە بدۆزەرەوە کە دەڵێت ڕیالیستیک یو جی سی ئەدز. و پاشان تەنها پێویستە لینکە ڕاستەقینەکەی پەڕەی بەرهەمەکەمان کۆپی بکەین. لەگەڵ ئەوەدا پیستی بکە"
+    },
+    {
+      "time": "8:57",
+      "text": "فەرمانی هێڵە خواروەکە. اینتەر لێدە. و پاشان تەنها هەندێک پرسیارمان پێدا تێدەپەڕێنێت بە هەمان ئەو شێوازەی کە بۆ دروستکردنی فرۆشگاکەمان کردی. کەواتە، وەک دەبینیت، سەرجەم پلانی بۆ ڕوون دەکەینەوە و"
+    },
+    {
+      "time": "9:06",
+      "text": "بە وردی چۆن ڤیدیۆ ڕیکلامەکە بۆمان دروست دەکات. کەواتە هەموو توێژینەوەی بازاڕ بۆ ئێمە ئەنجام دەدات. کەسایەتییەکەمان دروست دەکات کە لەگەڵ بینەرە ئامانجدارەکانماندا بگونجێت. تەواوی دەقەکە دروست دەکات و هەمووی دەردەهێنێت"
+    },
+    {
+      "time": "9:15",
+      "text": "ئەو دیمەنانەی پێویستمانە. وە هەروەها هەموو ڤیدیۆکەمان بۆ دەستکاری دەکات بۆ ئەوەی پێویست نەکات ئێمە بیکەین. ئێستا، بۆ دڵنیابوون لەوەی ئەمە بەڕاستی کاردەکات، دووبارە، دەبێت دڵنیا بیت کە جەیمینای غوگوڵت هەیە"
+    },
+    {
+      "time": "9:23",
+      "text": "هەفتانە چونکە پێویستی بە گەیشتن بە غوگوڵ فڵۆو دەبێت بۆ ئەوەی بتوانێت سەرجەم ڤیدیۆی هۆشی دەستکرد دروست بکات. وە ئەم بەشە ئارەزوومەندانەیە، وە پێشنیار دەکەم کە هەژماری تایبەتی خۆت لە تیک تۆک بچیتە ژوورەوە."
+    },
+    {
+      "time": "9:32",
+      "text": "بەم شێوەیە، کلۆد دەتوانێت لاپەڕەی بۆ تۆ پشکنین بکات تەنها بۆ ئەوەی بتوانێت بەدوای ڤیدیۆ ڤایرۆسییەکاندا بگەڕێت لە خەڵکی ئاسایی ڕۆژانە بۆ ئەوەی بتوانێت سەرجەم چنگەکانیان شیکار بکات"
+    },
+    {
+      "time": "9:39",
+      "text": "وە دەنگ و شێوازی قسەکردنیان. بەم شێوەیە، دەتوانێت ڕیکلامێک دروست بکات کە بەڕاستی هەست بە ڕەسەنی بکات بۆ ئەلگۆریتمەکانی فەیسبووک و تیک تۆک. وە کاتێک ئەوانە ڕێکخران، دەتوانیت پێشڕەوی بکەیت و ئەمە هەڵبژێریت و"
+    },
+    {
+      "time": "9:48",
+      "text": "پاشان بە شێوەیەکی بنەڕەتی دەست دەکات بە تێپەڕبوون بە ناو سەرجەم پرۆسەکەدا. باشە، کەواتە دوای ٢٠ خولەک، بە شێوەیەکی بنەڕەتی تەنها بڕێکی زۆر لە توێژینەوەی قووڵی ئەنجامدا بۆ تێگەیشتن لەوەی کڕیارەکانمان کێن. چی"
+    },
+    {
+      "time": "9:56",
+      "text": "ئەو شتانەن کە هەموو ئەم کەسانە دەیڵێن؟ بەم شێوەیە، دەیگەیاندینە سێ جۆر بیرۆکەی جیاوازی ڕیکلام کە دەتوانین لە نێوانیان هەڵبژێرین. و پاشان دەتوانین بڕیار بدەین کامەیانمان دەوێت بچین بۆی. کەواتە،"
+    },
+    {
+      "time": "10:04",
+      "text": "دەبینی کە یەکەم بیرۆکە ئەوەیە کە ژنەکە هەمیشە هودی مێردەکەی دەدزێت، کە پێم وایە زۆر پەیوەندیددارە، بەتایبەتی بۆ زۆرێک لەو کەسانەی کە لە پەیوەندیدا هەن. گەیشتین"
+    },
+    {
+      "time": "10:11",
+      "text": "بیرۆکەی دووەمی کەسێک کە ئامۆژگاری دابین دەکات لە کەسێکەوە کە لە ساڵی ١٩٧٤ـەوە سارد بووە. زۆر حەزم بەمە نییە، بۆیە ناچم بۆ ئەوە."
+    },
+    {
+      "time": "10:19",
+      "text": "وە بیرۆکەی سێیەمیش هەیە، کە لە تیک تۆکێکی ڕاستەقینەوە وەرگیراوە کە ١.٧ ملیۆن بینینی بەدەستهێناوە. و دەبینین کە بیرۆکەکە بەڕاستی جووڵاوە"
+    },
+    {
+      "time": "10:26",
+      "text": "باشە بۆ ئەوەی ڕاستگۆ بێت. وە دووبارە، هەڵبژاردنەکە بە تەواوی هی خۆمانە. ئەگەر دوو لە سێ بیرۆکەکەمان بەدڵ بێت، دەتوانین پێشڕەوی بکەین و دوو ڕیکلام لەو ڕووەوە دروست بکەین. بەڵام لەبەر خاتری ئەم ڤیدیۆیە، من دەچم"
+    },
+    {
+      "time": "10:34",
+      "text": "بیرۆکەی یەکەم هەڵبژێرە و پیشانت دەدەم کە چەندە ئاسان و سادەیە بۆ ئەوەی بیتوانرێت ڕیکلامێک بەدەستبهێنیت کە بۆ ئەم بەرهەمە زۆر باش دەردەکەوێت."
+    },
+    {
+      "time": "10:39",
+      "text": "کەواتە، ئەمە هەڵدەبژێرم و پاشان کاتێک تەواو بوو دەگەڕێمەوە. کەواتە، یەکەم شت کە دەیکات دروستکردنی ئەو کەسایەتیانەیە کە لە ڕیکلامی ڤیدیۆکەماندا دەردەکەون. پاشان هەروەها"
+    },
+    {
+      "time": "10:46",
+      "text": "بە وردی شیکاری بۆ شێوەی بەرهەمەکەمان دەکات. بەم شێوەیە، دەتوانێت خشتەی زانیاری زۆر ورد بۆ بەرهەمەکەمان دروست بکات کە دەدرێتە دروستکەری ڤیدیۆی زیرەکی دەستکردمان بۆ ئەوەی"
+    },
+    {
+      "time": "10:54",
+      "text": "دڵنیا بین کە بەرهەمەکەمان لە ڕاستیدا بە شێوەیەکی ڕاست و دروست دەردەکەوێت. و لێرەوە، تەنها دەبێت بە کلۆد بڵێین کە ئایا ئەم خشتەی زانیارییانەی بەرهەم پەسەند دەکەین یان نا، یان ئایا پەسەندی دەکەین"
+    },
+    {
+      "time": "11:02",
+      "text": "ئەو کەسایەتیانەی کە دروستکردووە. وە ئەگەر هەموو شتێک ئامادە بوو، دەتوانین ڕێگە بە کلۆد بدەین تەنها سەرەتای (هوک) ڤیدیۆکە لە پێش هەموو شتێکدا دروست بکات، تەنها بۆ ئەوەی تێگەیشتنێکمان هەبێت لەوەی کە ڕیکلامەکە چۆن دەردەکەوێت، یان دەتوانین تەنها هەموو ڕیکلامەکە پێکەوە دروست بکەین."
+    },
+    {
+      "time": "11:12",
+      "text": "لەم حاڵەتەدا، با تەنها ڕیکلامەکە بە تەواوی دروست بکەین، و ئەنجامەکەی پیشانت دەدەم. باشە، کەواتە ڕیکلامەکە تازە دروستکردنی تەواو کرد، و با سەیری بکەین ببینین چۆن دەرچووە. هاوسەرەکەم"
+    },
+    {
+      "time": "11:19",
+      "text": "هەمیشە هودییەکەم دەدزێت، بۆیە پۆشاکێکی گەرمکەرەوەم بۆ کڕی کە دەکەوێتە سەر شانەکانت وەکو کەپێک. هیچ قۆڵێکی نییە، وە لە خوارەوە تا سەرەوە زنجیر دەبێت"
+    },
+    {
+      "time": "11:27",
+      "text": "بۆ ئەوەی دەستەکانی [مۆسیقا] بە ئازادی بمێننەوە. پاوەر بانکییەکەی لە گیرفانێکی ناوەوەدا جێگیر دەبێت. دوگمەکە دەگرێت بۆ ئەوەی هەڵببێت، لێیدەدات بۆ سێ پلەی گەرمی، و"
+    },
+    {
+      "time": "11:34",
+      "text": "بە درێژایی پشت و شانەکانت دەگەرم بکاتەوە. قاپشتن، جلشۆرین، ئیمەیلەکان، هەموویان. وە تەنها وەک سۆوەتەرێک دەردەکەوێت. باشە، دەتوانیت هودییەکانت وەرگریتەوە."
+    },
+    {
+      "time": "11:43",
+      "text": "[مۆسیقا]"
+    },
+    {
+      "time": "11:43",
+      "text": "ئەگەر هاوسەرەکەشت بەردەوامە لە دزینی هودییەکانت، لینکەکەی لە خوارەوە دانراوە."
+    },
+    {
+      "time": "11:46",
+      "text": "بەڵام هەروەک دەبینن، ڕیکلامەکە بە جوانی دەرچووە. وە پێم وایە ئەمە زۆر سەرنجڕاکێشە کاتێک دەزانین کلۆد سەرپەرشتی دروستکردنی هەموو دیمەنێکی کردووە و تەواوی ڤیدیۆکەی پێکەوە مونتاژ کردووە. وە"
+    },
+    {
+      "time": "11:55",
+      "text": "لە ناو چاتەکەشدا، دەسەڵاتمان پێدەدات دەستمان بەم ئارتێفاکتە بگات بۆ ئەوەی بەڕاستی بتوانین تەواوی ڕیکلامەکە سەیر بکەین و بە وردی بزانین کام دیمەنە هی چییە. بە جۆرێک کە لە"
+    },
+    {
+      "time": "12:03",
+      "text": "حاڵەتێکدا کە تێبینی هەندێک کێشە لە دیمەنێکی تایبەتدا بکەین، دەتوانین ئەم دوگمەی تێبینییە هەڵبژێرین و بە وردی بنووسین کە کێشەکە چییە. وە دەتوانین لە بنەڕەتدا هەمان کار بکەین کە ئەنجاممان دەدا"
+    },
+    {
+      "time": "12:11",
+      "text": "لەگەڵ دروستکردنی فرۆشگاکەدا کە بە ڕستەی ڕاستەقینە بە کلۆد دەڵێین هەموو هەڵەکانی ڕاست بکاتەوە. وە تۆ بە سادەیی تەنها ئەم پرۆسەیە دووبارە دەکەیتەوە تاوەکو ڕیکلامێکی ڤیدیۆیی تەواوت دەبێت کە پێی ڕازیت. ئێستا، لەبەر ئەوەی"
+    },
+    {
+      "time": "12:20",
+      "text": "کلۆد ئەم ڕیکلامەی بە تەواوی مونتاژ کرد بە بێ بەکارهێنانی هیچ جۆرە مونتاژکارێکی ڤیدیۆ، ئەوا بژاردەت هەیە ڕێگە بە کلۆد بدەیت هەمان ڕیکلام مونتاژ بکات لەسەر شتێکی وەک کاپ کەت (CapCut)."
+    },
+    {
+      "time": "12:28",
+      "text": "بەم شێوەیە، دەتوانیت دەستت بە هێڵی کات (تایملاین) بگات و کۆنتڕۆڵی زیاترت هەبێت و هەندێک هەڵە خۆت ڕاست بکەیتەوە ئەگەرتەوێت. کەواتە، ئەمە بەڕاستی هەموو پرۆسەکەی منە کە چۆن کلۆد بەکاردێنم بۆ"
+    },
+    {
+      "time": "12:37",
+      "text": "یارمەتیدانم لە دروستکردنی فرۆشگای براندکراوی تەواو و دروستکردنی ڕیکلامی ڤیدیۆیی بۆ بە هەر بەرهەمێک کە بیەوێت. ئەگەر ئەم ڤیدیۆیە بە سوود بوو لایت، سوپاست دەکەم ئەگەر لایکێک بکەیت و سەبسکرایبی ئەم"
+    },
+    {
+      "time": "12:45",
+      "text": "کەناڵە بکەیت چونکە بەردەوام دەبم لە دروستکردنی ڤیدیۆی زیاتر لەسەر ئەوەی چۆن زیرەکی دەستکرد بەکاردەهێنم بۆ یارمەتیدان لە هەموو لایەنەکانی فرۆشگاکانی درۆپشیپینگەکەم. وە هەروەها لە توویتەر (X) فۆڵۆم بکە چونکە لە کاتێکەوە بۆ کاتێکی تر هەندێک ئامۆژگاری هاوبەش دەکەم لەسەر"
+    },
+    {
+      "time": "12:54",
+      "text": "هەموو ئەو کارانەی کە بە زیرەکی دەستکرد ئەنجامی دەدەم. لەگەڵ ئەوەشدا، زۆر سوپاست دەکەم بۆ سێرکردن و لە ڤیدیۆی داهاتوودا دەبینمەوە."
+    },
+    {
+      "time": "13:01",
+      "text": "[مۆسیقا]"
+    },
+    {
+      "time": "13:06",
+      "text": "[مۆسیقا]"
+    }
+  ]
+}
