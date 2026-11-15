@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <title>Saved videos</title>
 <style>
@@ -15,13 +15,14 @@
   }
   *{box-sizing:border-box}
   [hidden]{display:none !important}
-  body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.6 Georgia,"Times New Roman",serif}
+  body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.6 Georgia,"Times New Roman",serif;-webkit-text-size-adjust:100%}
+  body.noscroll{overflow:hidden}
   main{max-width:860px;margin:0 auto;padding:40px 20px 80px}
   h1{font-size:2rem;line-height:1.2;margin:0 0 6px;letter-spacing:-.01em}
   h2{font-size:1.15rem;line-height:1.35;margin:0 0 12px}
   p.sub{margin:0 0 28px;color:var(--muted)}
   input,button{font:inherit;padding:10px 14px;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--ink)}
-  button{background:var(--accent);color:#fff;border-color:var(--accent);cursor:pointer;font-weight:600}
+  button{background:var(--accent);color:#fff;border-color:var(--accent);cursor:pointer;font-weight:600;touch-action:manipulation}
   button.ghost{background:var(--card);color:var(--ink)}
   :focus-visible{outline:3px solid var(--run);outline-offset:2px}
   #msg,#vmsg{color:var(--err);font-family:system-ui,sans-serif;margin:0 0 14px}
@@ -38,22 +39,67 @@
   details input{width:min(420px,100%);margin:8px 8px 0 0}
   .bar{display:flex;gap:12px;align-items:center;margin:10px 0 14px;flex-wrap:wrap}
   #playerMsg{font:.9rem system-ui,sans-serif;color:var(--err)}
+
+  /* ---- player stage ---- */
   #stage{position:relative;aspect-ratio:16/9;background:#000;border-radius:8px;overflow:hidden;container-type:inline-size}
   #stage iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
-  #stage:fullscreen{aspect-ratio:auto;border-radius:0}
-  #sub{display:none;position:absolute;left:50%;transform:translateX(-50%);bottom:clamp(44px,8cqw,90px);z-index:2;
-    max-width:86%;text-align:center;pointer-events:none;color:#5aa9ff;background:rgba(0,0,0,.62);
-    padding:.15em .6em;border-radius:4px;font:600 clamp(12px,1.9cqw,16px)/1.4 system-ui,sans-serif}
-  #stage:fullscreen #sub{font-size:1.5cqw;bottom:clamp(64px,5cqw,110px)}
+  #stage:fullscreen{aspect-ratio:auto;border-radius:0;width:100%;height:100%}
+  #stage:-webkit-full-screen{aspect-ratio:auto;border-radius:0;width:100%;height:100%}
+  #stage.isfs{aspect-ratio:auto;border-radius:0}
+
+  /* subtitles: always anchored to the BOTTOM of the video */
+  #sub{display:none;position:absolute;left:50%;top:auto;transform:translateX(-50%);
+    bottom:clamp(40px,9cqw,90px);z-index:2;
+    max-width:92%;text-align:center;pointer-events:none;color:#5aa9ff;background:rgba(0,0,0,.62);
+    padding:.15em .6em;border-radius:4px;font:600 clamp(12px,2.6cqw,17px)/1.4 system-ui,sans-serif;
+    overflow-wrap:anywhere}
+  #stage.isfs #sub{font-size:clamp(15px,2.4cqw,34px);bottom:clamp(44px,7cqw,120px);max-width:88%}
+
+  /* small exit button, top right, only while in full screen */
+  #exitFs{display:none;position:absolute;z-index:5;
+    top:calc(10px + env(safe-area-inset-top,0px));right:calc(10px + env(safe-area-inset-right,0px));
+    width:38px;height:38px;padding:0;border-radius:50%;
+    align-items:center;justify-content:center;font:700 18px/1 system-ui,sans-serif;
+    background:rgba(0,0,0,.55);color:#fff;border:1px solid rgba(255,255,255,.55)}
+  #stage.isfs #exitFs{display:flex}
+
+  /* fallback full screen (iPhone Safari cannot full-screen a custom element) */
+  #stage.pfs{position:fixed;inset:0;z-index:9999;width:100vw;height:100vh;height:100dvh;margin:0}
+  @media (orientation:portrait){
+    #stage.pfs{inset:auto;top:0;left:0;width:100vh;width:100dvh;height:100vw;
+      transform-origin:top left;transform:rotate(90deg) translateY(-100%)}
+  }
+
   .tabs{display:flex;gap:8px;margin:0 0 12px;flex-wrap:wrap}
   .tabs button{background:var(--card);color:var(--ink)}
   .tabs button[aria-pressed=true]{background:var(--accent);color:#fff}
-  #text{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:8px 18px;max-height:60vh;overflow:auto}
+  #text{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:8px 18px;max-height:60vh;overflow:auto;-webkit-overflow-scrolling:touch}
   table{width:100%;border-collapse:collapse}
   th{position:sticky;top:0;background:var(--card);text-align:left;font:600 .85rem system-ui,sans-serif;color:var(--muted);padding:10px 8px;border-bottom:2px solid var(--line)}
-  td{padding:8px;border-bottom:1px solid var(--line);vertical-align:top}
+  td{padding:8px;border-bottom:1px solid var(--line);vertical-align:top;overflow-wrap:anywhere}
   td.t{width:76px;white-space:nowrap;font:.9rem system-ui,sans-serif;font-variant-numeric:tabular-nums;color:var(--accent)}
   tr:last-child td{border-bottom:0}
+
+  /* ---- mobile ---- */
+  @media (max-width:640px){
+    main{padding:20px 12px 60px}
+    h1{font-size:1.5rem}
+    h2{font-size:1.05rem}
+    p.sub{margin-bottom:18px}
+    .grid{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px}
+    .card .ti{font-size:.92rem}
+    #back{width:100%}
+    .bar{flex-direction:column;align-items:stretch;gap:8px}
+    .bar button{width:100%;padding:12px 14px}
+    .tabs{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+    .tabs button{padding:12px 8px}
+    #text{padding:4px 10px;max-height:50vh}
+    td.t{width:60px;font-size:.8rem}
+    td{font-size:.95rem}
+    #sub{bottom:clamp(34px,11cqw,60px);font-size:clamp(12px,3.4cqw,15px);max-width:94%}
+    details input{width:100%;margin-right:0}
+    details button{margin-top:8px}
+  }
 </style>
 </head>
 <body>
@@ -77,7 +123,10 @@
     <button type="button" id="back" class="ghost" style="margin-bottom:14px">Back to saved videos</button>
     <h2 id="vtitle" dir="auto"></h2>
     <p id="vmsg" role="alert"></p>
-    <div id="stage"><div id="sub" dir="auto"></div></div>
+    <div id="stage">
+      <div id="sub" dir="auto"></div>
+      <button type="button" id="exitFs" aria-label="Exit full screen" title="Exit full screen">✕</button>
+    </div>
     <div class="bar">
       <button type="button" id="fs">Full screen with subtitles</button>
       <span id="playerMsg" role="alert"></span>
@@ -265,6 +314,7 @@ async function showPlayer(){
   subTimer = setInterval(tickSub, 200);
 }
 function stopPlayer(){
+  exitFs();
   clearInterval(subTimer); player = null;
   const old = $("#stage iframe"); if (old) old.remove();
   $("#sub").style.display = "none";
@@ -290,14 +340,62 @@ function tickSub(){
   el.style.display = text ? "block" : "none";
 }
 
+// ---------- full screen (rotates to landscape on phones) ----------
+const stage = $("#stage");
+function nativeFsEl(){ return document.fullscreenElement || document.webkitFullscreenElement || null; }
+function inFs(){ return !!nativeFsEl() || stage.classList.contains("pfs"); }
+function syncFsUi(){
+  stage.classList.toggle("isfs", inFs());
+}
+function lockLandscape(){
+  try {
+    if (screen.orientation && screen.orientation.lock) screen.orientation.lock("landscape").catch(() => {});
+  } catch (e) {}
+}
+function unlockOrientation(){
+  try { if (screen.orientation && screen.orientation.unlock) screen.orientation.unlock(); } catch (e) {}
+}
+async function enterFs(){
+  const req = stage.requestFullscreen || stage.webkitRequestFullscreen;
+  if (req){
+    try {
+      await req.call(stage);
+      lockLandscape();          // turns the phone view sideways when the browser allows it
+      syncFsUi();
+      return;
+    } catch (e) { /* fall through to the CSS version */ }
+  }
+  // Fallback (iPhone Safari): cover the screen with the player, turned sideways if the phone is upright
+  stage.classList.add("pfs");
+  document.body.classList.add("noscroll");
+  syncFsUi();
+}
+function exitFs(){
+  const wasFs = inFs();
+  if (nativeFsEl()){
+    const ex = document.exitFullscreen || document.webkitExitFullscreen;
+    try { const p = ex && ex.call(document); if (p && p.catch) p.catch(() => {}); } catch (e) {}
+  }
+  stage.classList.remove("pfs");
+  document.body.classList.remove("noscroll");
+  if (wasFs) unlockOrientation();
+  syncFsUi();
+}
+function onFsChange(){
+  if (!nativeFsEl() && !stage.classList.contains("pfs")) unlockOrientation();
+  syncFsUi();
+}
+document.addEventListener("fullscreenchange", onFsChange);
+document.addEventListener("webkitfullscreenchange", onFsChange);
+document.addEventListener("keydown", e => { if (e.key === "Escape" && stage.classList.contains("pfs")) exitFs(); });
+$("#fs").addEventListener("click", () => { inFs() ? exitFs() : enterFs(); });
+$("#exitFs").addEventListener("click", exitFs);
+
 // ---------- buttons ----------
 document.querySelectorAll(".tabs [data-view]").forEach(b => b.addEventListener("click", () => {
   setView(b.dataset.view); if (data) paintTable();
 }));
 $("#copy").addEventListener("click", () => { if (data) navigator.clipboard.writeText(data[view].map(l => l.text).join("\n")); });
-$("#fs").addEventListener("click", () => {
-  if (document.fullscreenElement) document.exitFullscreen(); else $("#stage").requestFullscreen();
-});
 function stamp(sec){
   const z = (n, w) => String(n).padStart(w, "0");
   return z(Math.floor(sec/3600), 2) + ":" + z(Math.floor(sec%3600/60), 2) + ":" + z(Math.floor(sec%60), 2) + ",000";
