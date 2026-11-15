@@ -9,6 +9,9 @@
   :root{
     --paper:#f3f6f4; --ink:#17231f; --muted:#5d6f68; --line:#cdd9d3;
     --accent:#0f6b5a; --err:#b3261e; --run:#b7791f; --card:#ffffff;
+    /* subtitle style (changed by the panel under the video) */
+    --sub-scale:1; --sub-color:#5aa9ff; --sub-bg:rgba(0,0,0,.62); --sub-radius:6px;
+    --sub-font:system-ui,sans-serif; --sub-weight:600; --sub-shadow:none; --sub-lift:0px;
   }
   @media (prefers-color-scheme:dark){
     :root{--paper:#101916; --ink:#e6efeb; --muted:#93a8a0; --line:#2a3b35; --accent:#4fc3a8; --err:#ff8a80; --run:#f0b35a; --card:#17231f;}
@@ -49,11 +52,32 @@
 
   /* subtitles: always anchored to the BOTTOM of the video */
   #sub{display:none;position:absolute;left:50%;top:auto;transform:translateX(-50%);
-    bottom:clamp(40px,9cqw,90px);z-index:2;
-    max-width:92%;text-align:center;pointer-events:none;color:#5aa9ff;background:rgba(0,0,0,.62);
-    padding:.15em .6em;border-radius:4px;font:600 clamp(12px,2.6cqw,17px)/1.4 system-ui,sans-serif;
+    bottom:calc(clamp(40px,9cqw,90px) + var(--sub-lift));z-index:2;
+    max-width:92%;text-align:center;pointer-events:none;color:var(--sub-color);background:var(--sub-bg);
+    padding:.15em .6em;border-radius:var(--sub-radius);
+    font-family:var(--sub-font);font-weight:var(--sub-weight);line-height:1.4;text-shadow:var(--sub-shadow);
+    font-size:calc(clamp(12px,2.6cqw,17px) * var(--sub-scale));
     overflow-wrap:anywhere}
-  #stage.isfs #sub{font-size:clamp(15px,2.4cqw,34px);bottom:clamp(44px,7cqw,120px);max-width:88%}
+  #stage.isfs #sub{font-size:calc(clamp(15px,2.4cqw,34px) * var(--sub-scale));
+    bottom:calc(clamp(44px,7cqw,120px) + var(--sub-lift));max-width:88%}
+
+  /* subtitle style panel */
+  #styler{margin:0 0 16px;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:0 14px;
+    font-family:system-ui,sans-serif;font-size:.92rem;color:var(--ink)}
+  #styler summary{cursor:pointer;padding:12px 0;font-weight:600}
+  #styler .ctl-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px 16px;padding-bottom:14px}
+  #styler label{display:flex;flex-direction:column;gap:4px;color:var(--muted);font-size:.82rem}
+  #styler label b{color:var(--ink);font-weight:600}
+  #styler input{width:100%;margin:0}
+  #styler input[type=range]{padding:0;border:0;background:transparent;accent-color:var(--accent);height:32px}
+  #styler input[type=color]{height:38px;padding:2px;cursor:pointer}
+  #styler select{width:100%;margin:0;padding:9px 10px;font:inherit;border:1px solid var(--line);border-radius:6px;background:var(--card);color:var(--ink)}
+  #styler .prev{display:flex;justify-content:center;align-items:flex-end;min-height:84px;padding:14px;margin:0 0 14px;border-radius:6px;
+    background:linear-gradient(135deg,#2b3a55,#6b7f99 55%,#3c4a3a)}
+  #subPreviewText{max-width:100%;text-align:center;padding:.15em .6em;color:var(--sub-color);background:var(--sub-bg);
+    border-radius:var(--sub-radius);font-family:var(--sub-font);font-weight:var(--sub-weight);line-height:1.4;text-shadow:var(--sub-shadow);
+    font-size:calc(16px * var(--sub-scale));overflow-wrap:anywhere}
+  #styler .row{display:flex;justify-content:flex-end;padding-bottom:14px}
 
   /* small exit button, top right, only while in full screen */
   #exitFs{display:none;position:absolute;z-index:5;
@@ -96,7 +120,9 @@
     #text{padding:4px 10px;max-height:50vh}
     td.t{width:60px;font-size:.8rem}
     td{font-size:.95rem}
-    #sub{bottom:clamp(34px,11cqw,60px);font-size:clamp(12px,3.4cqw,15px);max-width:94%}
+    #sub{bottom:calc(clamp(34px,11cqw,60px) + var(--sub-lift));font-size:calc(clamp(12px,3.4cqw,15px) * var(--sub-scale));max-width:94%}
+    #styler .ctl-grid{grid-template-columns:1fr 1fr;gap:10px 12px}
+    #styler .row button{width:100%}
     details input{width:100%;margin-right:0}
     details button{margin-top:8px}
   }
@@ -131,6 +157,51 @@
       <button type="button" id="fs">Full screen with subtitles</button>
       <span id="playerMsg" role="alert"></span>
     </div>
+    <details id="styler">
+      <summary>Subtitle style: size, color, shape, font…</summary>
+      <div class="prev"><span id="subPreviewText" dir="auto">Sample subtitle · نموذج الترجمة</span></div>
+      <div class="ctl-grid">
+        <label><span>Text size <b id="vSize"></b></span>
+          <input type="range" id="sSize" min="60" max="300" step="5"></label>
+        <label><span>Raise from bottom <b id="vLift"></b></span>
+          <input type="range" id="sLift" min="-20" max="200" step="2"></label>
+        <label><span>Text color</span>
+          <input type="color" id="sColor"></label>
+        <label><span>Background color</span>
+          <input type="color" id="sBg"></label>
+        <label><span>Background opacity <b id="vBga"></b></span>
+          <input type="range" id="sBga" min="0" max="100" step="5"></label>
+        <label><span>Shape</span>
+          <select id="sShape">
+            <option value="0px">Square</option>
+            <option value="6px">Rounded</option>
+            <option value="18px">Very rounded</option>
+          </select></label>
+        <label><span>Font</span>
+          <select id="sFont">
+            <option value="system-ui, sans-serif">Sans-serif</option>
+            <option value="Georgia, 'Times New Roman', serif">Serif</option>
+            <option value="ui-monospace, Menlo, Consolas, monospace">Monospace</option>
+            <option value="Tahoma, 'Segoe UI', Arial, sans-serif">Tahoma</option>
+            <option value="'Noto Naskh Arabic', 'Traditional Arabic', 'Geeza Pro', serif">Arabic Naskh</option>
+            <option value="'Comic Sans MS', 'Chalkboard SE', cursive">Casual</option>
+          </select></label>
+        <label><span>Weight</span>
+          <select id="sWeight">
+            <option value="400">Normal</option>
+            <option value="600">Semi-bold</option>
+            <option value="800">Bold</option>
+          </select></label>
+        <label><span>Text effect</span>
+          <select id="sEffect">
+            <option value="none">None</option>
+            <option value="shadow">Shadow</option>
+            <option value="outline">Black outline</option>
+            <option value="glow">Glow</option>
+          </select></label>
+      </div>
+      <div class="row"><button type="button" id="sReset" class="ghost">Reset to default</button></div>
+    </details>
     <div class="tabs">
       <button type="button" data-view="translated" aria-pressed="true">Translated</button>
       <button type="button" data-view="original" aria-pressed="false">Original</button>
@@ -390,6 +461,57 @@ document.addEventListener("webkitfullscreenchange", onFsChange);
 document.addEventListener("keydown", e => { if (e.key === "Escape" && stage.classList.contains("pfs")) exitFs(); });
 $("#fs").addEventListener("click", () => { inFs() ? exitFs() : enterFs(); });
 $("#exitFs").addEventListener("click", exitFs);
+
+// ---------- subtitle style panel ----------
+const STYLE_DEFAULT = {size:100, lift:0, color:"#5aa9ff", bg:"#000000", bga:62,
+  shape:"6px", font:"system-ui, sans-serif", weight:"600", effect:"none"};
+const EFFECTS = {
+  none:"none",
+  shadow:"0 2px 5px rgba(0,0,0,.95)",
+  outline:"-1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000, 0 0 3px #000",
+  glow:"0 0 6px currentColor, 0 0 12px currentColor"
+};
+const CTL = {sSize:"size", sLift:"lift", sColor:"color", sBg:"bg", sBga:"bga",
+  sShape:"shape", sFont:"font", sWeight:"weight", sEffect:"effect"};
+const NUM = new Set(["size", "lift", "bga"]);
+let sty = Object.assign({}, STYLE_DEFAULT);
+try { Object.assign(sty, JSON.parse(lsGet("sub_style") || "{}")); } catch (e) {}
+
+function hexRgba(h, a){
+  const m = /^#?([0-9a-f]{6})$/i.exec(h || "");
+  if (!m) return "rgba(0,0,0," + a + ")";
+  const n = parseInt(m[1], 16);
+  return "rgba(" + (n >> 16 & 255) + "," + (n >> 8 & 255) + "," + (n & 255) + "," + a + ")";
+}
+function applyStyle(){
+  const r = document.documentElement.style;
+  r.setProperty("--sub-scale", sty.size / 100);
+  r.setProperty("--sub-lift", sty.lift + "px");
+  r.setProperty("--sub-color", sty.color);
+  r.setProperty("--sub-bg", hexRgba(sty.bg, sty.bga / 100));
+  r.setProperty("--sub-radius", sty.shape);
+  r.setProperty("--sub-font", sty.font);
+  r.setProperty("--sub-weight", sty.weight);
+  r.setProperty("--sub-shadow", EFFECTS[sty.effect] || "none");
+  $("#vSize").textContent = sty.size + "%";
+  $("#vLift").textContent = sty.lift + " px";
+  $("#vBga").textContent = sty.bga + "%";
+}
+function syncControls(){
+  for (const id in CTL) $("#" + id).value = sty[CTL[id]];
+}
+for (const id in CTL){
+  const key = CTL[id];
+  $("#" + id).addEventListener("input", e => {
+    sty[key] = NUM.has(key) ? Number(e.target.value) : e.target.value;
+    applyStyle(); lsSet("sub_style", JSON.stringify(sty));
+  });
+}
+$("#sReset").addEventListener("click", () => {
+  sty = Object.assign({}, STYLE_DEFAULT);
+  syncControls(); applyStyle(); lsSet("sub_style", "");
+});
+syncControls(); applyStyle();
 
 // ---------- buttons ----------
 document.querySelectorAll(".tabs [data-view]").forEach(b => b.addEventListener("click", () => {
