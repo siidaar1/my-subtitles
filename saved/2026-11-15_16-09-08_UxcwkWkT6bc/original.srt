@@ -1,0 +1,411 @@
+1
+00:00:00,000 --> 00:00:07,000
+In this video, I'm going to show you how I use AI to oneshot fully branded stores just like what you're seeing here on the screen. And I'll even show you how AI
+
+2
+00:00:07,000 --> 00:00:12,000
+can make and edit full video ads for the same product that look a little something like this.
+
+3
+00:00:12,000 --> 00:00:21,000
+Okay, day one of wearing this shaw my husband bought me that plugs into a power bank apparently. So, it just goes over your shoulders and my hands come
+
+4
+00:00:21,000 --> 00:00:29,000
+out the bottom which fine. An hour of emails and I can actually type. My back and shoulders are warm. I'm usually
+
+5
+00:00:29,000 --> 00:00:36,000
+freezing at soccer practice and I'm literally not cold right now, which is annoying. Usually, I'm on this couch under two blankets and a hoodie. And
+
+6
+00:00:36,000 --> 00:00:46,000
+tonight, it's just this and I'm somehow warm. Okay, day one's done. He was right and I was wrong. Don't tell him. I'll put where he got it down below.
+
+7
+00:00:46,000 --> 00:00:54,000
+Now, this store and this ad is something that would easily take anyone several hours or even days just to be able to create. And if you're also not too good
+
+8
+00:00:54,000 --> 00:01:01,000
+with using AI, it's still super difficult to be able to get good results the very first time. So that's why in this video, I'm going to share my exact
+
+9
+00:01:01,000 --> 00:01:10,000
+workflow that's going to literally allow you to oneshot any store or ad for any product that you want. So let's get straight into it. [music]
+
+10
+00:01:10,000 --> 00:01:18,000
+All right, so to make this work, you first need to install Claude Code on your computer. And then you're also going to need to download these two skill zip files in my description down
+
+11
+00:01:18,000 --> 00:01:26,000
+below. Once you have them, just drag them over to Claude Code. And then I'm simply just going to tell it to install the skills. Hit enter. And then within like 5 seconds, it's going to know
+
+12
+00:01:26,000 --> 00:01:33,000
+everything it needs to know to be able to build your store and make your video ad. So after installing those skills, we need to start a brand new chat again.
+
+13
+00:01:33,000 --> 00:01:40,000
+This time we're going to select this folder down here. And you want to make a brand new folder on your desktop with the name of the product that you're selling. So for demonstration purposes,
+
+14
+00:01:40,000 --> 00:01:47,000
+we're going to be building a store and a video ad for this product that I found off of Zenrop. After creating the folder, the next is to select our model.
+
+15
+00:01:47,000 --> 00:01:56,000
+So right now, Opus 5.5 is one of the best models. And if you want to get the best results, I recommend going with high or extra high thinking. But for the sake of this video, I'm just going to do
+
+16
+00:01:56,000 --> 00:02:04,000
+medium just so I can conserve my usage limits just a little bit. And now we need to type in slash build and then find where it says build store. And then now we just need to paste in a link to
+
+17
+00:02:04,000 --> 00:02:15,000
+our product. So this could either be our Shopify store, an AliExpress link, or in this case, I'm just going to grab the link from Zenrop itself. So the link is pasted. Now we press enter. And now give it a few seconds just to think about it.
+
+18
+00:02:15,000 --> 00:02:18,000
+All right. So the first question is just asking where it should build our store.
+
+19
+00:02:18,000 --> 00:02:26,000
+So, if you don't already have a store, you could go ahead and just click this link right here, and you're going to get a 3-day free trial. And then once the trial is over, you only have to pay a dollar a month for the next 3 months.
+
+20
+00:02:26,000 --> 00:02:34,000
+Now, because I already have a store, I'm going to go ahead and select this option. Now, the next question is asking which image tool we use. And this part is important because we need some sort
+
+21
+00:02:34,000 --> 00:02:42,000
+of AI image generator that's going to help us generate all the content that we need for our product page. And what I highly recommend is to sign up for a
+
+22
+00:02:42,000 --> 00:02:49,000
+free Google Gemini account. This way you have access to Google Nano Banana which is one of the best image generators out right now. And with Google Gemini you
+
+23
+00:02:49,000 --> 00:02:57,000
+also have access to Google Flow which allows you to generate everything in one place which is a lot easier than using the standard Gemini chat. Now if we
+
+24
+00:02:57,000 --> 00:03:05,000
+select Google Flow inside of Claude basically what's going to happen is that Claude is just going to take over our Chrome browser and generate everything it needs using our Gemini account. And
+
+25
+00:03:05,000 --> 00:03:14,000
+of course if you don't want to use Google Gemini you can either use chatbt or any other platform that you use to generate all of your AI content. The next question is just basically asking
+
+26
+00:03:14,000 --> 00:03:22,000
+us who is our drop shipping supplier because obviously there's no point of building a store if we have no way to fulfill our orders. Now, one option that I recommend for beginners would be
+
+27
+00:03:22,000 --> 00:03:30,000
+Zenrop because it's super seamless and easy to use. And once we build out the store, I'll show you exactly how to set up Zenrop in case you want. Otherwise, if you already have another drop
+
+28
+00:03:30,000 --> 00:03:37,000
+shipping solution or your own supplier, you could select any one of these other options. Last question is basically asking us how hands-on do we want to be.
+
+29
+00:03:37,000 --> 00:03:45,000
+In other words, Claude is basically asking whether you want it to build the entire store for you where you absolutely say nothing, or it could just ask you a couple of questions such as
+
+30
+00:03:45,000 --> 00:03:53,000
+what brand name that you want, what price do you want for your products, and things like that, which I personally think is worth doing. So, we're going to select this option, and then press submit. All right, so now it's asking us
+
+31
+00:03:53,000 --> 00:04:01,000
+to paste a link to our store. So, I'm just going to grab the link from my Shopify dashboard, paste it in, press enter, and then after submitting the link, it's going to help you connect
+
+32
+00:04:01,000 --> 00:04:09,000
+your cloud over to your Shopify store as we're going to need this once we start building out the store. And then it also just analyzed what our product is, did a little bit of market research, and kind
+
+33
+00:04:09,000 --> 00:04:14,000
+of just laid out all of its findings in the chat. And now it's asking us how much we want to sell our product for.
+
+34
+00:04:14,000 --> 00:04:23,000
+So, because this product cost us about $24 from Zenrop, I think $69 is a pretty good price point because it's about 2.5 times what it costs us to fulfill it,
+
+35
+00:04:23,000 --> 00:04:30,000
+which is the general multiplier that I like to look for. And now it's asking us what brand name that we like. Now, of course, if you don't like any of the brand names, you can go ahead and just
+
+36
+00:04:30,000 --> 00:04:38,000
+ask it to generate more. But in this case, I'm just going to select this brand name right here. And now it's asking if everything from the table right here looks good. So basically it's
+
+37
+00:04:38,000 --> 00:04:47,000
+asking whether it has all the details correct about your products. And if everything looks good, you can go ahead and just select that option. But if you need to change or correct a few things, you can select this option right here.
+
+38
+00:04:47,000 --> 00:04:54,000
+All right. So after submitting these questions, now it's actually going to start doing the heavy work and actually start building out and designing our store. So this could take around 10 to
+
+39
+00:04:54,000 --> 00:04:57,000
+15 minutes and I'll be back when it's done. All right, so it just finished up.
+
+40
+00:04:57,000 --> 00:05:03,000
+So we can just click on this canvas link so that we can take a look at the product page. And as you can see, everything here looks pretty branded.
+
+41
+00:05:03,000 --> 00:05:11,000
+Starting at the top, we have these nice branded images that look super high quality. We have this nice bundles widget so that we can increase our average order value. We have all these
+
+42
+00:05:11,000 --> 00:05:20,000
+nice little trust icons and things like that under the add toart button. We have like a nice instructional section right here. We have all these different sections that just explain the features
+
+43
+00:05:20,000 --> 00:05:27,000
+and benefits of our product. We got some lifestyle images right here. We have a comparison section of our product versus the competitors. We got some more social
+
+44
+00:05:27,000 --> 00:05:34,000
+proof right here and also a nice reviews widget. It even created the FAQ questions and also a nice guarantee section at the bottom and also a nice
+
+45
+00:05:34,000 --> 00:05:44,000
+little hero banner at the bottom. And it even completed our entire footer section. And it doesn't just do the product page, we also have a fully designed homepage as well. So, as you can see, we have this nice hero banner.
+
+46
+00:05:44,000 --> 00:05:52,000
+We have this nice little bundle section so people can immediately buy and basically just a lot of other sections that kind of look similar to the product page. And what we can do is go up here
+
+47
+00:05:52,000 --> 00:06:01,000
+and select the screens mode because this allows us to highlight any section that we want so that we can give notes to Claude to tell it to change the order of the section or just make whatever change
+
+48
+00:06:01,000 --> 00:06:09,000
+that we want. So for example, at the bottom I noticed that these two sections right here are a little bit too close to each other. So I can literally just select this section and just say space
+
+49
+00:06:09,000 --> 00:06:18,000
+this away from the section right above it. And then on the left hand side I'm going to say read my note and make the change. Press enter and then we're going
+
+50
+00:06:18,000 --> 00:06:27,000
+to give it a few minutes and see what it's going to do. All right. So, it just finished up. Let's go ahead and open up the canvas and then check that out. Now, we can see that the spacing between these two sections look much better. So,
+
+51
+00:06:27,000 --> 00:06:35,000
+you basically just want to do this across your entire store. Make sure you also view your store in mobile view just to ensure that everything here also looks just as good. But you can already
+
+52
+00:06:35,000 --> 00:06:43,000
+see that I've designed this skill to make Claude super smart and make sure that everything looks just as good on mobile. And now we just need to head over to our Shopify store, click on
+
+53
+00:06:43,000 --> 00:06:51,000
+online store, and then you want to find the exact theme that Claude imported into the store. And then make sure that you click on publish. And now you have a store that's fully built and ready to
+
+54
+00:06:51,000 --> 00:07:00,000
+go. And after doing that, just go back into the cloud chat. Go ahead and tell it done. And now the next step from here is connecting our store to a drop shipping supplier. So that way once we
+
+55
+00:07:00,000 --> 00:07:08,000
+actually start getting some orders, we have some sort of way to actually fulfill them. In case you don't already have a drop shipping solution, feel free to follow along with me and I'll show you how to get this set up in just
+
+56
+00:07:08,000 --> 00:07:17,000
+literally the next minute. So we're going to select Zenrop, click on submit, and assuming you don't have a Zenrop account, you can select this option and then click on submit. And then it's going to open up the Zenrop website.
+
+57
+00:07:17,000 --> 00:07:24,000
+Now, once you sign up, it's probably going to ask you to install the Zenrop app into your store. So, make sure you do all of that. Go back into the same Claude chat and then tell it that you're
+
+58
+00:07:24,000 --> 00:07:29,000
+done and then click on submit. And now, it's going to open up this page so that we can connect Zenrop over to Claude.
+
+59
+00:07:29,000 --> 00:07:37,000
+So, make sure you click on connect and then click on authorize. So, after selecting that option, my Claude was actually having some issues seeing the new connection. And if that happens to
+
+60
+00:07:37,000 --> 00:07:45,000
+you, all you have to do is close your Claude app on your computer and restart it. And then just tell it to try again exactly like I did. And you can see that it was able to connect everything just
+
+61
+00:07:45,000 --> 00:07:54,000
+fine. So basically what it's going to do is help us connect our Shopify product with the Zenrop link so that it matches all the colors on our store with the exact colors that are offered by Zenrop.
+
+62
+00:07:54,000 --> 00:08:02,000
+So if everything looks good, we can go ahead and just tell it to link it. And once you actually start getting orders on your store, all you have to do is go on the Zenrop app, go on your orders tab
+
+63
+00:08:02,000 --> 00:08:09,000
+right here, and all of your orders from your store are going to show up right here. And you're going to just simply click on this button that says fulfill all. And that's literally it. All of
+
+64
+00:08:09,000 --> 00:08:17,000
+your packages are going to be shipped from Zenrop's warehouses to your customers within like 7 to 12 days. So, now that we've set up fulfillment, you can go back into your Cloud chat and you
+
+65
+00:08:17,000 --> 00:08:26,000
+can select this option so that Claude can help you finish the rest of your store setup. So, that means helping you set up your shipping settings, your payments, your taxes, and your domain,
+
+66
+00:08:26,000 --> 00:08:33,000
+and basically all of the annoying things that take up so much of your time, but we can now just let Claude handle it for us. Now, I'm not going to walk you through the entire process because
+
+67
+00:08:33,000 --> 00:08:42,000
+Claude can literally do it for you. And instead, I'm going to show you how we're going to use Claude to make and edit an entire video ad for this exact same product. And best of all, it's going to
+
+68
+00:08:42,000 --> 00:08:50,000
+handle the entire process for us from A to Z. All right, so what you want to do is start up a fresh new chat inside of your cloud code. And this time, we're going to type in slash and type in
+
+69
+00:08:50,000 --> 00:08:57,000
+realistic and then find the skill that says realistic UGC ads. And then we just need to copy the exact link of our product page. Paste it along with that
+
+70
+00:08:57,000 --> 00:09:06,000
+slash command. Hit enter. And then it's just going to run us through some questions the exact same way that it did for our store build. So, as you can see, it's explaining us the entire plan and
+
+71
+00:09:06,000 --> 00:09:15,000
+how exactly it's going to create the ad for us. So, it's going to handle all the market research for us. It's going to make our character that matches our target audience. It's going to create the entire script and generate all of
+
+72
+00:09:15,000 --> 00:09:23,000
+the scenes that we need. And it's also going to edit the entire video for us so that we don't have to. Now, to ensure this actually works, again, you need to make sure that you have a Google Gemini
+
+73
+00:09:23,000 --> 00:09:32,000
+subscription because it's going to need to access Google Flow so that it could generate all the AI video. And this part is optional, and I recommend that you log your own personal Tik Tok account.
+
+74
+00:09:32,000 --> 00:09:39,000
+This way, Claude can scan your for you page just so that it can look for viral videos from normal everyday people so that it can analyze all of their hooks
+
+75
+00:09:39,000 --> 00:09:48,000
+and their tone and speaking styles. This way, it can create an ad that actually feels native to the Facebook and Tik Tok algorithms. And once those are set up, you can go ahead and select this and
+
+76
+00:09:48,000 --> 00:09:56,000
+then it's basically going to start running through the entire process. All right, so after 20 minutes, it basically just did a ton of intense research to understand who our customers are. What
+
+77
+00:09:56,000 --> 00:10:04,000
+are the things that all of these people are saying? This way, it could develop us three different concepts of ads that we can choose from. and then we can decide which one we want to go for. So,
+
+78
+00:10:04,000 --> 00:10:11,000
+you can see the first concept is the wife always stealing the husband's hoodie, which I think is pretty relatable, especially for a lot of people who are in relationships. We got
+
+79
+00:10:11,000 --> 00:10:19,000
+a second concept of a person giving advice from someone who's been cold since 1974. Not really a fan of this one, so I'm not going to go with that.
+
+80
+00:10:19,000 --> 00:10:26,000
+And there's also the third concept, which is derived from an actual Tik Tok that got 1.7 million views. And we can see that the concept is actually pretty
+
+81
+00:10:26,000 --> 00:10:34,000
+good to be honest. And again, the choice is completely ours. If we like two out of the three concepts, we can go ahead and create two ads out of that. But for the sake of this video, I'm going to
+
+82
+00:10:34,000 --> 00:10:39,000
+choose concept one and show you how easy and simple it is to be able to get an ad that looks pretty good for this product.
+
+83
+00:10:39,000 --> 00:10:46,000
+So, I'm going to select this and then I'll be back when it's done. So, what it's doing first is creating all the characters that are going to appear in our video ad. And then it's also
+
+84
+00:10:46,000 --> 00:10:54,000
+analyzing exactly how our product looks like. This way, it could develop very accurate product sheets that's going to be given to our AI video generator to
+
+85
+00:10:54,000 --> 00:11:02,000
+ensure that our product is actually going to look accurate. And from here, we basically just have to tell Claude whether we approve of these product sheets or not, or whether we approve of
+
+86
+00:11:02,000 --> 00:11:12,000
+the characters that it's generated. And if everything is good to go, we can either let Claude generate just the hook of the video first, just so we can get an idea of how the ad is going to look, or we could just generate the entire ad.
+
+87
+00:11:12,000 --> 00:11:19,000
+In this case, let's just generate the full ad, and I'm going to show you the result. All right, so the ad just finished generating, and let's go ahead and see how this came out. My wife
+
+88
+00:11:19,000 --> 00:11:27,000
+always steals my hoodie, so I got her a heated wrap that goes over your shoulders like a cape. No sleeves, and it zips from the bottom all the way up
+
+89
+00:11:27,000 --> 00:11:34,000
+so her hands [music] stay free. Her power bank goes in a pocket on the inside. She holds the button to turn it on, taps it for three heat settings, and
+
+90
+00:11:34,000 --> 00:11:43,000
+it warms right across your back and shoulders. Dishes, laundry, emails, all of it. And it just looks like a sweater. Okay, you can have your hoodies back.
+
+91
+00:11:43,000 --> 00:11:45,000
+[music]
+
+92
+00:11:43,000 --> 00:11:46,000
+If your wife keeps stealing your hoodies, too, it's linked down below.
+
+93
+00:11:46,000 --> 00:11:55,000
+But as you can see, the ad came out pretty good. And I think it's pretty impressive knowing that Claude handled the generation of every single scene and it edited the entire video together. And
+
+94
+00:11:55,000 --> 00:12:03,000
+inside of the chat, it also gives us access to this artifact so that we can actually watch the entire ad and know exactly which scene is what. So that in
+
+95
+00:12:03,000 --> 00:12:11,000
+case we notice some issues of a particular scene, we can select this note button and type in exactly what the problem is. And we can essentially do the exact same thing that we were doing
+
+96
+00:12:11,000 --> 00:12:20,000
+with the store build where we literally just tell Claw to correct any of its mistakes. And you basically just repeat this process until you have a full video ad that you're happy with. Now, because
+
+97
+00:12:20,000 --> 00:12:28,000
+Claude edited this entire ad without using any type of video editor, you do have the option to allow Claude to edit the exact same ad on something like Cap
+
+98
+00:12:28,000 --> 00:12:37,000
+Cut. This way, you can have access to the timeline and have a little bit more control and fix a few mistakes yourself if you want to. So, that's pretty much my entire process on how I use Claw to
+
+99
+00:12:37,000 --> 00:12:45,000
+help me build fully branded stores and create video ads for basically any product that I want. If you found this video helpful, I would appreciate it if you drop a like and subscribe to this
+
+100
+00:12:45,000 --> 00:12:54,000
+channel as I'm going to keep making more videos on how I'm using AI to help with all aspects with my drop shipping stores. And also follow me on Twitter as I share some tips from time to time on
+
+101
+00:12:54,000 --> 00:13:01,000
+everything that I'm doing with AI. And with that being said, I thank you so much for watching and I'll catch you on the next one.
+
+102
+00:13:01,000 --> 00:13:06,000
+[music]
+
+103
+00:13:06,000 --> 00:13:10,000
+[music]
