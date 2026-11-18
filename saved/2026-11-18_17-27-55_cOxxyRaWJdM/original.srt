@@ -1,0 +1,551 @@
+1
+00:00:00,000 --> 00:00:08,000
+Muy buenas, chavales. En este vídeo vengo a enseñaros a cómo hago yo para hacer target al país que me dé la gana con mis tiendas de dropshipping orgánico, cómo hacer que mi contenido se
+
+2
+00:00:08,000 --> 00:00:11,000
+enseñe en España, en Estados Unidos, en Alemania, en Polonia, donde yo quiera.
+
+3
+00:00:11,000 --> 00:00:19,000
+Al final este fue el primer vídeo que subí en mi canal, pero es un vídeo que subí hace cosa de un año y medio, no sé, hace un montonazo. Y muchas veces me lo
+
+4
+00:00:19,000 --> 00:00:27,000
+preguntáis todas las semanas, "Oye, este método sigue funcionando, oye, no sé qué, oye, no sé cuánto." Pues en este vídeo vengo a traeros el método actualizado. En este vídeo voy a
+
+5
+00:00:27,000 --> 00:00:35,000
+explicaros todo, ¿vale? desde la teoría hasta la práctica. Vale, voy a explicaros teóricamente qué redes necesitan VPN, cómo funciona el target de cada red social y luego vamos a pasar
+
+6
+00:00:35,000 --> 00:00:44,000
+al móvil y vamos a setear un móvil. Voy a enseñaros el proceso completo, voy a deciros qué es lo que necesitáis, qué es lo que no, para que cuando salgáis de este vídeo podáis y decís, "Oye, pues mira, pues quiero enseñar mis
+
+7
+00:00:44,000 --> 00:00:51,000
+vídeos en Estados Unidos, oye, o en Alemania o en Polonia, donde sea, y puedas hacerlo sin ningún tipo de problema." Pero antes de nada, para el que no me conozca, mi nombre es Raúl y
+
+8
+00:00:51,000 --> 00:00:58,000
+llevo haciendo deosivin orgánico algo más de 3 años y medio año únicamente haciéndolo con inteligencia artificial, que es de lo que va este canal, ya que
+
+9
+00:00:58,000 --> 00:01:06,000
+ahora me dedico 100% a eso. No vivo del humo, no soy un gurú, os voy a dejar un par de resultados por pantalla o qué por pantalla. Voy a sacar un dashboard y os lo enseño, ¿vale? Como
+
+10
+00:01:06,000 --> 00:01:14,000
+estáis viendo por aquí, voy a refrescar un par de veces porque si no la gente no se lo quere. Voy a refrescar absolutamente todas. Todas estas tiendas que estáis viendo son de únicamente un
+
+11
+00:01:14,000 --> 00:01:22,000
+producto, pero para el que me siga en Instagram, para los del B, para los del 1 a un, sabéis que Shopify me está tirando los pagos, me está tirando las pasarelas y tengo que ir cambiando de
+
+12
+00:01:22,000 --> 00:01:30,000
+cuentas para poder cobrar. Como estáis viendo por aquí, desde el 22 de septiembre hasta aproximadamente el 30 hemos hecho 11,283.
+
+13
+00:01:30,000 --> 00:01:38,000
+Tenemos unos márgenes en este producto de aproximadamente el 70 75%. Una locura, la verdad. Más apsuelvo a refrescar que lo veáis. Luego tenemos
+
+14
+00:01:38,000 --> 00:01:46,000
+por aquí en el mismo rango de fechas, desde el 27 hasta el 4 de octubre. Al final me van baneando, voy creando nuevas cuentas. 9,479
+
+15
+00:01:46,000 --> 00:01:57,000
+y luego en esta última que fue desde el 3 de octubre hasta se me ha quedado pillado, hasta el 14, unos 3,800. Y ahora en el nuevo sitio web pues llevamos prácticamente $2,000, ¿vale?
+
+16
+00:01:57,000 --> 00:02:04,000
+Como estáis viendo por aquí, no me lo invento desde el 11 de octubre y obviamente no son las únicas tiendas que llevo. Me dedico esto a tiempo completo.
+
+17
+00:02:04,000 --> 00:02:09,000
+Llevo viviendo de esto cosas de 3 años, así que créeme que sé de lo que hablo. Vivo por y para este modelo de negocio.
+
+18
+00:02:09,000 --> 00:02:12,000
+Así que espero que aproveches todo el valor que hay dentro de este vídeo.
+
+19
+00:02:12,000 --> 00:02:20,000
+Vamos al lío. Antes de nada, me gustaría explicaros en qué se basa cada red social para enseñar tu vídeo en un sitio o en otro. Entonces, vamos a empezar hablando por TikTok y es que TikTok basa
+
+20
+00:02:20,000 --> 00:02:29,000
+el público al que le enseña tu producto en tu [música] dirección IP. ¿Qué quiere decir esto? que tú apareces como que estás en España, tu contenido se va a enseñar prioritariamente en España, al
+
+21
+00:02:29,000 --> 00:02:36,000
+menos al principio. Cuando ya llevamos 20, 25 vídeos aproximadamente, nuestro contenido pues ya empieza a diversificar un poquillo más, entran distintos
+
+22
+00:02:36,000 --> 00:02:45,000
+países. Si la manera nuestra de hacer contenido, ya sea por contenido, productos, audios que estemos usando, palabras que estemos usando, etcétera, hace que nuestro contenido sea más
+
+23
+00:02:45,000 --> 00:02:49,000
+popular en ciertos países de Latinoamérica o lo que sea, pues nos van a entrar esos países de Latinoamérica.
+
+24
+00:02:49,000 --> 00:02:57,000
+Pero por eso también tenemos que que entender cómo funciona, cómo hacer para no pillar mal tráfico, para no traer mal tráfico. Eso es algo de lo que hablaré
+
+25
+00:02:57,000 --> 00:03:04,000
+un poquillo más adelante en YouTube, pero TikTok basa nuestro tráfico en nuestra dirección IP al principio, luego se globaliza. ¿Qué quiere decir esto?
+
+26
+00:03:04,000 --> 00:03:12,000
+Que nosotros si queremos subir contenido en Estados Unidos, podríamos hacerlo desde nuestro móvil de España sin VPN. O sea, simplemente nos ponemos a publicar en inglés. Los primeros vídeos veríamos
+
+27
+00:03:12,000 --> 00:03:20,000
+que tenemos 99% España, 100% España, únicamente España, pero poco a poco cuando vayamos subiendo vídeos, a lo mejor cuando llevemos cinco, ya tenemos
+
+28
+00:03:20,000 --> 00:03:28,000
+un 92 de España y ya tenemos un 2% de Reino Unido y un 5% de Estados Unidos, por ejemplo. Vale, poco a poco va entrando el target de esos países. A lo
+
+29
+00:03:28,000 --> 00:03:37,000
+mejor tras 20 vídeos tenemos un 10% de Estados Unidos, un 15% de Reino Unido, un 5% de Alemania, un 30% de otro país de habla inglesa. Y es que ahí va la
+
+30
+00:03:37,000 --> 00:03:44,000
+cosa, ¿vale? Y es que TikTok al basarse por nuestra IP, como no le demos un VPN, lo que va a pasar es que vamos a tener un target global. Mientras que si
+
+31
+00:03:44,000 --> 00:03:55,000
+estamos utilizando VPN, podemos apuntar a tener un 100% de target a Estados Unidos desde el primer vídeo. Pasando ahora por Instagram y Facebook, estas redes sociales da completamente igual que postemos con o sin un VPN. ¿Por qué?
+
+32
+00:03:55,000 --> 00:04:03,000
+Porque basa nuestro target en el idioma en el cual posteamos, también YouTube y thre, etcétera. O sea, el tema de la VPN únicamente aplica para TikTok. Nosotros
+
+33
+00:04:03,000 --> 00:04:12,000
+desde el móvil de España podemos y postear en Instagram, podemos postear en Facebook, podemos postear donde queramos que se van a enseñar en estos países. Y es por eso que mucha gente con o sin VPN
+
+34
+00:04:12,000 --> 00:04:20,000
+viene y me dice, "Oye, tío, yo estoy subiendo vídeos en Instagram." Sobre este problema pasa sobre todo en Instagram porque en Facebook podemos banear audiencias del tirón y tal en
+
+35
+00:04:20,000 --> 00:04:27,000
+Instagram únicamente por edad. Y vienen y me dicen, "Oye, tío, mira, mi contenido se me está enseñando 50% India, esto es una Tengo un 5%
+
+36
+00:04:27,000 --> 00:04:36,000
+de Estados Unidos, tengo la VPNAL." Pues empezáis a comeros la cabeza. Instagram y Facebook no basan su target en vuestra IP. Hablo Instagram y Facebook, puedo incluir también a YouTube y THT, pero
+
+37
+00:04:36,000 --> 00:04:44,000
+hablo de ellas porque son las más importantes. ¿Vale? Entonces, ¿qué pasa con esto? Al no basarse en nuestra IP [música] se lo enseñan a todo el mundo que hable inglés. África, India,
+
+38
+00:04:44,000 --> 00:04:54,000
+Indonesia, Irán, Filipinas, todos este tipo de países, ¿vale? Y qué pasa que hay más indios, sobre todo el problema suele ser la India y hay tres veces más indios que estadounidenses en el mundo.
+
+39
+00:04:54,000 --> 00:05:02,000
+Entonces, por regla de tres, los indios van a ver nuestro contenido. Obviamente hay maneras de hacer que esto pase menos o de que directamente no pase, pero de eso hablaremos en otro vídeo que no lo
+
+40
+00:05:02,000 --> 00:05:11,000
+voy a soltar todo aquí. Entonces, en estas redes sociales es completamente indiferente que subamos con o sin VPN, o sea, da igual. Yo, por ejemplo, tengo los móviles de Estados Unidos por aquí,
+
+41
+00:05:11,000 --> 00:05:18,000
+¿vale? Y aquí lo que hago es postear en TikTok, en YouTube y en Instagram por costumbre, pero luego la cuenta de Facebook la tengo desde donde estoy grabando, desde mi móvil personal de
+
+42
+00:05:18,000 --> 00:05:26,000
+España y posteo en inglés, o sea, posteo en inglés sin VPN y no tengo ningún problema a la hora de que se me enseñen los vídeos, ¿vale? porque es completamente indiferente y si quisiese
+
+43
+00:05:26,000 --> 00:05:35,000
+ponerme el Instagram desde este móvil lo haría también, pero ya tengo el móvil seteado aquí y entonces simplemente subo en TikTok, luego me voy a Instagram, lo reposteo ahí y así sigue el ciclo.
+
+44
+00:05:35,000 --> 00:05:42,000
+Entonces ahora os voy a enseñar y os voy a hacer el caso literalmente práctico de cómo sete un móvil para hacer target a cualquiera de los países que queramos.
+
+45
+00:05:42,000 --> 00:05:46,000
+Yo en lo personal lo voy a hacer en Estados Unidos porque he reseteado este móvil para exactamente lo mismo.
+
+46
+00:05:46,000 --> 00:05:53,000
+Entonces, nada, quedaros a ver el vídeo porque hay cosas que han cambiado respecto al primer vídeo y seguro que os sirven de un montón de ayuda. Así que dicho esto, vamos al móvil. Vale,
+
+47
+00:05:53,000 --> 00:05:56,000
+chavales, ya estamos por el móvil. Lo primero de todo, resetear el móvil.
+
+48
+00:05:56,000 --> 00:06:05,000
+Vale, reseteamos el móvil y nos aparecerá esto de aquí. Y ahora empezaremos a configurarlo. Lo primero de todo, el tema del idioma. Vamos a venirnos y vamos a poner el idioma que
+
+49
+00:06:05,000 --> 00:06:10,000
+queramos. Nosotros, yo por ejemplo voy a apuntar a Estados Unidos, entonces voy a buscar el idioma inglés. Ponemos inglés.
+
+50
+00:06:10,000 --> 00:06:21,000
+En tema de región, este móvil lo utiliza la última vez para Alemania, por eso sale Germany, pero vamos a bajar y vamos a buscar United States. Aparece por aquí. Esto ya lo que queramos. Esto simplemente como apariencia del móvil.
+
+51
+00:06:21,000 --> 00:06:23,000
+[música]
+
+52
+00:06:21,000 --> 00:06:25,000
+Y aquí le daremos a configurar sin otro móvil. Aquí voy a configurar mi wifi.
+
+53
+00:06:25,000 --> 00:06:32,000
+Vale, me ha pedido conectar el wifi. He puesto la clave del wifi y nos aparecería esto de aquí. Vale, simplemente toca esperar un ratillo.
+
+54
+00:06:32,000 --> 00:06:36,000
+Vale, por aquí tenemos esto. Le damos a continuar.
+
+55
+00:06:36,000 --> 00:06:44,000
+Aquí le damos a más de 18. Esto para luego. Y aquí ponemos nuestra contraseña. Por aquí le daremos a no transferir absolutamente nada. Aquí nos
+
+56
+00:06:44,000 --> 00:06:51,000
+dice si queremos transferir datos o lo que sea. Y aquí importante, esto es la parte importante. Apple account. En caso de que hayamos hecho este proceso antes
+
+57
+00:06:51,000 --> 00:07:00,000
+y tengamos un Apple ID de Estados Unidos o del país que sea, podemos iniciar sesión y reutilizarlo, ¿vale? Pero en caso de que no tengamos, pues simplemente nos vendremos aquí y le
+
+58
+00:07:00,000 --> 00:07:08,000
+damos a, se me olvidó la contraseña o lo que sea, y le daremos a no tengo una cuenta de Apple. Este móvil lo he usado 30,000 veces para hacer este método y ya
+
+59
+00:07:08,000 --> 00:07:16,000
+si le doy me da un aviso de que no se puede crear más. Tendría que contactar a Apple y no voy a hacer eso ahora como estáis viendo por aquí. Entonces, ¿qué es lo que voy a hacer? Voy a explicaros
+
+60
+00:07:16,000 --> 00:07:23,000
+un poquillo qué es lo que os saldría aquí. Aquí simplemente os diría que pongáis un correo, le dais a No tengo un correo, creáis un iCloud gratis, ¿vale?
+
+61
+00:07:23,000 --> 00:07:31,000
+Que es desde ese mismo sitio, aparece todo visible y os pedirá en tema de región ponéis la del país al que queráis apuntar, en mi caso Estados Unidos. Si
+
+62
+00:07:31,000 --> 00:07:39,000
+tú eres Alemania, Alemania, si es Polonia, Polonia, pero yo lo suelo hacer para Estados Unidos. Y luego os pedirá que verifiquéis con un número. Podéis verificar con el número que queráis.
+
+63
+00:07:39,000 --> 00:07:47,000
+Puede ser vuestro número de España, puede ser el número de vuestra madre, vuestra tía, de lo que sea. Y en caso de que no tengáis número, podéis hacerlo desde números temporales. Ahora os enseño la web desde la que la podéis
+
+64
+00:07:47,000 --> 00:07:54,000
+hacer, ¿vale? Le voy a dar a no tengo Apple ID y tal, simplemente como para poder avanzar. Le damos que sí, ¿no?
+
+65
+00:07:54,000 --> 00:08:02,000
+Ahora importante, servicios de localización, setup lateró sepa de dónde estamos operando, por así
+
+66
+00:08:02,000 --> 00:08:10,000
+decirlo. No tenemos SIM, no tenemos sim física, lo único que necesitamos es un móvil y un VPN. El móvil puede ser de Walapop. Esto es de Walapop, está hecho
+
+67
+00:08:10,000 --> 00:08:17,000
+me costó 50 pavos. Tengo otros más que también los compré por allí y si tiene la pantalla hecha me vale.
+
+68
+00:08:17,000 --> 00:08:21,000
+Si tiene la batería hecha me vale. Es únicamente para postear, ¿vale?
+
+69
+00:08:21,000 --> 00:08:29,000
+O sea, vamos a seguir. Esto da igual lo que seleccionéis. Yo le doy ya no compartir. Esto es simplemente por cómo se ve el móvil. Si para luego y ya
+
+70
+00:08:29,000 --> 00:08:37,000
+estaría. Ya con esto tenemos seteado nuestro teléfono. Simplemente le damos a empezar a ajustes. Hacemos así, pulsamos aquí, dejamos pulsado Bluetooth
+
+71
+00:08:37,000 --> 00:08:44,000
+y le damos ajustes de Bluetooth. Lo desactivamos.
+
+72
+00:08:44,000 --> 00:08:53,000
+Y listo, ya tendríamos el móvil [música] listo. Nos falta la VPN, pero os voy a enseñar qué aplicación podéis usar para verificar números, ¿vale? La aplicación
+
+73
+00:08:53,000 --> 00:09:00,000
+la tendréis en la descripción, no me pagan ni muchísimo menos, de hecho, yo les pago a ellos. Onlineesim.io.
+
+74
+00:09:00,000 --> 00:09:09,000
+Vale, aquí os metéis, metéis un saldo de 5 € me parece que es lo mínimo, y podéis, vaya, voy a enseñaroslo en el ordenador, ¿vale? Como estáis viendo por aquí, metéis saldo, a mí me queda 1,79.
+
+75
+00:09:09,000 --> 00:09:17,000
+nos vendríamos aquí a Apple o buscamos el servicio que sea, en mi caso Apple, y buscaríamos a Estados Unidos o donde sea. Da igual, o sea, si nuestra cuenta es para Estados Unidos, podemos
+
+76
+00:09:17,000 --> 00:09:23,000
+verificar con un número alemán, da igual. Va, pillamos esto y aquí nos aparece un número, o sea, aquí donde está mi cara aparece un número.
+
+77
+00:09:23,000 --> 00:09:30,000
+Simplemente, pues metemos este número en el apartado de verificar y nos llegará un SMS. Metemos ese código de SMS y se habrá verificado con ese número de
+
+78
+00:09:30,000 --> 00:09:39,000
+teléfono. Importante, ¿por qué recomiendo que sea con un número vuestro? Porque si más tarde queráis reutilizar esa cuenta, yo que sé, formateáis el móvil y queréis volver a
+
+79
+00:09:39,000 --> 00:09:46,000
+acceder a esa cuenta, seguramente os pidan que verifiquéis con un número de teléfono y si este número de teléfono no lo tenéis, no vais a poder entrar a la
+
+80
+00:09:46,000 --> 00:09:55,000
+cuenta, a no hacer que hagáis opciones de recuperación y normalmente os la devuelven, pero tardáis como 4 o c días y son cu o c días que no podemos perder, ¿vale? O sea, no estamos para perder el
+
+81
+00:09:55,000 --> 00:10:03,000
+tiempo. Dicho esto, vamos al móvil y vamos a la parte más importante. Vale, chavales, he cambiado de móvil porque en el otro al no tener Apple ID no puedo descargarme nada. Entonces, simulemos
+
+82
+00:10:03,000 --> 00:10:11,000
+que este es el móvil con el cual he empezado. Lo primero que tenemos que descargarnos es una VPN. No uséis VPN gratuita, os recomiendo que utilicéis Surc. ¿Por qué os recomiendo que
+
+83
+00:10:11,000 --> 00:10:19,000
+utilicéis Sursarc? Porque es una VPN que no está nada mal de precio y pagando el plan más básico, tenemos acceso a IPs estáticas. ¿Por qué? Porque no queremos
+
+84
+00:10:19,000 --> 00:10:30,000
+que nuestra IP vaya rotando, que hoy a las redes sociales le aparezca que estamos aquí y en 20 minutos estemos aquí y en 5 minutos estemos aquí, ¿sabes? En plan eso para las redes sociales canta y nos acaban flagueando.
+
+85
+00:10:30,000 --> 00:10:34,000
+Entonces, necesitamos una IP estática. Y enar con el plan más barato lo tenéis.
+
+86
+00:10:34,000 --> 00:10:41,000
+Tenéis el enlace en primera línea de descripción. No me pagan, pero sí tengo referido. Y si os registráis desde mi enlace tenéis tres meses gratis y a mí pues me dais algo de dinerillo que nunca
+
+87
+00:10:41,000 --> 00:10:49,000
+viene mal. Lo siguiente sería entrar a Surc y os aparecería algo así, ¿vale? O sea, veríais esto de aquí. A estos servidores no nos queremos conectar.
+
+88
+00:10:49,000 --> 00:10:57,000
+¿Por qué no nos queremos conectar a estos servidores? Porque estos son hiperrotativas. Lo que digo, ahora estamos aquí, luego estamos aquí, luego aquí, luego aquí, luego aquí y nos acaban flagueando. Entonces vamos a
+
+89
+00:10:57,000 --> 00:11:05,000
+venirnos aquí advance, vamos a bajar y aquí veremos static IP, buscaremos el país al cual queremos hacer target, en
+
+90
+00:11:05,000 --> 00:11:14,000
+mi caso Estados Unidos y tenemos cinco servidores. ¿Qué es lo que vamos a hacer ahora? Parte importante, no es selecciono cualquiera y chao. Vamos a ir
+
+91
+00:11:14,000 --> 00:11:22,000
+uno por uno testeando los servidores para ver cuál es más fiable. ¿Cómo hacemos eso? Pues para conectarnos a una IP, simplemente pulsamos y se nos conecta, como estáis viendo por aquí.
+
+92
+00:11:22,000 --> 00:11:31,000
+Abrimos esto y esta sería nuestra dirección IP. La copiamos y nos vamos a venir a esta página web. Se llama Escamalitics, también la tendréis en descripción, es completamente gratuita.
+
+93
+00:11:31,000 --> 00:11:38,000
+Y aquí simplemente pues metemos nuestra IP. Metamos la IP y nos dará un fraud score. Esto indica el índice como de
+
+94
+00:11:38,000 --> 00:11:45,000
+estafa de nuestra IP, o sea, a más alto, más se percibe nuestra red como una red propensa a hacer spam o lo que sea.
+
+95
+00:11:45,000 --> 00:11:53,000
+Entonces, jás peor. Tenemos que buscar dentro de todos los servidores la que mejor Fraudcore tenga. Yo creo que la que mejor tiene mi móvil es la tres.
+
+96
+00:11:53,000 --> 00:12:00,000
+Creo que estaba sobre los 40 38 más o menos. un buen frut score es por debajo de 50, pero si no encontramos ninguna por debajo de 50, pues nos quedamos con
+
+97
+00:12:00,000 --> 00:12:04,000
+la que menos frut score tenga. Vale, creo que esta era la que mejor tenía.
+
+98
+00:12:04,000 --> 00:12:09,000
+Efectivamente, 38. Y lo que tendríais que hacer sería comparar de uno en uno.
+
+99
+00:12:09,000 --> 00:12:18,000
+Yo ya sé que de esta es la que mejor funciona en la tres, entonces me voy a quedar en la tres. Cuando tengáis esa detectada, simplemente os conectáis y no os volvéis a desconectar nunca más.
+
+100
+00:12:18,000 --> 00:12:28,000
+Ahora sí, con la IP creada podemos crear las cuentas de TikTok, de Instagram, de absolutamente todo. Y ahora voy a resolver un par de dudas, un par de mitos que rondan por ahí. Voy a hablaros un poquillo sobre los siguientes pasos.
+
+101
+00:12:28,000 --> 00:12:36,000
+Lo primero de todo, ¿hace falta una IP dedicada? No, no hace falta una IP dedicada. Yo en lo personal tengo en este móvil IP dedicada porque empecé y
+
+102
+00:12:36,000 --> 00:12:45,000
+me la compré, pero sin embargo en este móvil, por ejemplo, voy con hipestática y este móvil pues no lo tengo seteado, pero cuando lo seté le meteré la hipstática. Entonces, no hace falta una
+
+103
+00:12:45,000 --> 00:12:52,000
+IP dedicada con que compremos el plan más básico de Sursar, que está bien, me parece que son 50 € al año si pagamos anualmente. Si pagamos al mes son 2 o 3
+
+104
+00:12:52,000 --> 00:13:03,000
+€ o cu al mes, o sea, nada. Lo siguiente sería VPN o proxy. Y es que para el que no sepa lo que es proxy, es algo similar a la VPN y hay mucho mito por ahí, ¿no?
+
+105
+00:13:03,000 --> 00:13:12,000
+La proxy es mejor que la VPN, esto, lo otro. Y yo en lo personal probé Proxy, tengo activa una suscripción de Proxy y no la utilizo. Me parece un
+
+106
+00:13:12,000 --> 00:13:19,000
+sinceramente. Funciona exactamente igual. Compré una Proxy Residencial, incluso me detectaba, a lo mejor me metía a las redes sociales y me decía
+
+107
+00:13:19,000 --> 00:13:27,000
+que mi número era de China, aunque luego en Whats My Adress, que es una página web que te permite ver desde dónde está conectada tu dirección IP, que también
+
+108
+00:13:27,000 --> 00:13:32,000
+la tendréis en descripción, me salía que estaba en Estados Unidos, pero las redes me percibían como que era de China.
+
+109
+00:13:32,000 --> 00:13:40,000
+Entonces, yo recomiendo que utilicéis VPN, lo utilizan mis amigos, lo utilizan mis alumnos, lo utilizo yo y os puedo decir que no os va a dar problema si utilizáis este método. A la hora de
+
+110
+00:13:40,000 --> 00:13:48,000
+crear cuentas, muy sencillo, desde ese móvil podemos crear cuentas desde Gmail, desde Unlock, desde Proton Mail, desde donde queramos, no capa crear cuentas en unlock, eso es un mitazo. Así que
+
+111
+00:13:48,000 --> 00:13:57,000
+crearos cuenta si queréis empezar por Gmail. Cuando ya no podáis crearos más por tema de números de verificación y tal, pues podéis pasaros a blog. Yo personalmente creo creo prácticamente
+
+112
+00:13:57,000 --> 00:14:04,000
+todos mis correos con un blog. Los creáis rápido y fácil. Los creamos desde este móvil, ¿vale? Porque los correos electrónicos desde donde los creemos se
+
+113
+00:14:04,000 --> 00:14:12,000
+registran. Entonces, si queremos crear una cuenta en el ordenador, metemos una VPN en el ordenador y la creamos con VPN activa. Porque si creamos una cuenta de
+
+114
+00:14:12,000 --> 00:14:20,000
+Gmail desde nuestro móvil de España y la metemos en el móvil de Estados Unidos, cuando iniciemos sesión en TikTok con la cuenta de Gmail lo va a detectar y puede
+
+115
+00:14:20,000 --> 00:14:30,000
+darnos problema. Entonces, queremos una cuenta de correo con región Estados Unidos. Y cuando hablo de Estados Unidos, quiero que entendáis que me refiero al país al que queráis hacer target. Lo siguiente, hace falta sim.
+
+116
+00:14:30,000 --> 00:14:39,000
+Podéis hacer este método perfectamente sin SIM. Este móvil va sin SIM, el otro va sin SIM y este lo llevo con SIM porque es el móvil con el que empecé, pero no hace falta que tengáis una SIM
+
+117
+00:14:39,000 --> 00:14:47,000
+ni física ni SIM nada. O sea, móvil, VPN y a volar. Y poco más realmente ahora cuando vayamos a crearnos una cuenta de TikTok, cuando vayamos a crear la
+
+118
+00:14:47,000 --> 00:14:55,000
+cuenta, si todo está bien, cuando le demos como a crear cuenta, nos aparecerá como el prefijo de Estados Unidos para que iniciemos sesión con el móvil. Nos
+
+119
+00:14:55,000 --> 00:15:03,000
+aparecerá un más uno. Vamos a hacer la prueba en vivo y en directo, ¿vale? Le damos a crear cuenta, add another account y como estáis viendo por ahí más
+
+120
+00:15:03,000 --> 00:15:10,000
+un. Mi móvil lo está detectando como que es un móvil de Estados Unidos y cuando empecemos a postear pues simplemente nos metemos a ajustes analítica y vemos que
+
+121
+00:15:10,000 --> 00:15:18,000
+nuestro target está prácticamente al 100% Estados Unidos. Y con esto tendríamos el método listo para poder hacer target a donde queramos. Pero antes de irme voy a hablaros sobre
+
+122
+00:15:18,000 --> 00:15:26,000
+Organic Printers Club y es que como ya algunos sabréis, 3 años haciendo esto, fue hace cosas de mes y medio que lancé las plazas para trabajar conmigo uno a
+
+123
+00:15:26,000 --> 00:15:35,000
+uno y ya estamos consiguiendo resultados. Aparte del 1 a un tengo el VIP, así que vamos a enseñaros un par de resultados por ahí. Como estáis viendo por aquí entramos. Romero ha subido hace
+
+124
+00:15:35,000 --> 00:15:45,000
+cosa de una hora. ¿Cuánto dinero hay aquí? No sé cuánto dinero hay. Como 15 KDI. Una locura. Ángel aquí con algo cerca de con 5k. Aquí resultados míos.
+
+125
+00:15:45,000 --> 00:15:50,000
+Aquí resultados de Joel. Romero sigue por ahí. J del 1 a1 vendiendo.
+
+126
+00:15:50,000 --> 00:15:57,000
+Resultados míos. Bueno, más resultados míos. Ville con $,000 en un día. Ville del 1 a un. José también vendiendo del 1
+
+127
+00:15:57,000 --> 00:16:04,000
+a un Alex también vendiendo. Jaime también vendiendo. Prácticamente todos los que aplican están vendiendo. Además de estos tengo muchos más resultados que
+
+128
+00:16:04,000 --> 00:16:12,000
+me van mandando los alumnos del 1 a un por WhatsApp, pero si queréis verlos, pues podéis ir a mi Instagram y por ahí los tenéis en una destacada. Dicho esto, si me interesa trabajar uno a uno
+
+129
+00:16:12,000 --> 00:16:20,000
+conmigo para aprovechar al máximo este Q4, que es la época perfecta para vender, es la época donde más fácil lo tenemos, época de efectivos, conceptos
+
+130
+00:16:20,000 --> 00:16:27,000
+de regalo, la gente está frita por gastar dinero y nosotros somos los que nos aprovechamos de ello. Entonces, si quieres aprovechar al máximo esta oportunidad trabajando de la mano con
+
+131
+00:16:27,000 --> 00:16:35,000
+alguien que ya ha pasado por donde tú has pasado, tenéis el enlace de Organic Printers Club en primera línea de descripción para que veáis todos los servicios que ofrezco, ya sea el VIP, la
+
+132
+00:16:35,000 --> 00:16:38,000
+comunidad gratuita o el uno a un y os decantéis por el que más os gusta.
+
+133
+00:16:38,000 --> 00:16:46,000
+Quiero deciros también que no hace falta que le paguéis a nadie para vender. O sea, podéis tener resultados, podéis vivir de esto sin pagarme a mí, sin pagarle a el otro. Esto lo que os va a
+
+134
+00:16:46,000 --> 00:16:53,000
+dar es el camino más rápido. O [música] sea, no es lo mismo tú meterte en YouTube y estás filtrando por 30 gurú que tener toda la información en un
+
+135
+00:16:53,000 --> 00:17:01,000
+sitio, que poder preguntarme sea la hora que sea cualquier pregunta y que yo te la responda. Al final tener una persona al lado que ha pasado por donde tú
+
+136
+00:17:01,000 --> 00:17:10,000
+tienes que pasar para llegar hasta donde tú quieras llegar es algo que te va a ahorrar muchísimo tiempo. Pero si no te quieres gastar dinero, trabajas, no le pagues a nadie, fórmate por YouTube y los resultados te llegarán igualmente.
+
+137
+00:17:10,000 --> 00:17:18,000
+Dicho esto, espero que haya molado muchísimo el vídeo y sobre todo que os haya servido. dejarme un like, suscribiros al canal y dejarme un comentario diciendo qué os ha parecido este vídeo o qué queréis ver en los
+
+138
+00:17:18,000 --> 00:17:22,000
+siguientes vídeos para darme idea y que os traiga más contenido de valor. Y dicho esto, poneros las pilas que estamos en Q4. Soy Raúl y nos vemos en el siguiente vídeo. [música]
